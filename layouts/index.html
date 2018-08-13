@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <main class="col-xs-12">
+  <main class="col-12">
     {{- .Content -}}
     {{range where (where .Site.Pages "Section" "posts") ".Title" "!=" "Posts" }}
       <section>
