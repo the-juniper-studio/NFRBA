@@ -38,14 +38,12 @@
     {{ partial "navigation.html" . }}
     {{ if isset .Params "hero" }}{{ partial "jumbotron.html" . }}{{ end }}
     <div class="container">
-      <div class="row">
-        {{block "main" .}}
-          <main class="col-xs-12 col-md-8 offset-md-2">
-            {{ if not (isset .Params "hero") }}<h1>{{ .Title }}</h1>{{ end }}
-            {{ .Content }}
-          </main>
-        {{end}}
-      </div>
+      {{block "main" .}}
+        <main>
+          {{ if not (isset .Params "hero") }}<h1>{{ .Title }}</h1>{{ end }}
+          {{ .Content }}
+        </main>
+      {{end}}
     </div>
     <script>
       if (window.netlifyIdentity) {
