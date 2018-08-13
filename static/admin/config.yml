@@ -11,7 +11,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: "test" # Used in routes, e.g., /admin/collections/blog
     label: "test" # Used in the UI
-    folder: "" # The path to the folder where the documents are stored
+    folder: "/" # The path to the folder where the documents are stored
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: 'Body', name: 'body', widget: 'markdown' }
