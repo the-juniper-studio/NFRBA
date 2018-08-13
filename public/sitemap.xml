@@ -3,17 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.nfrba.co.uk/categories/</loc>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2018-08-07T22:52:28+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/clubs/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/documents/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixtures-and-results/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/juniors/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tables/</loc>
+    <lastmod>2018-08-07T17:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.nfrba.co.uk/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2018-08-07T22:52:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.nfrba.co.uk/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

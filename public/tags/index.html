@@ -28,6 +28,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="/styles/default.css">
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -50,31 +52,23 @@
   </div>
 </nav>
 
-    <div class="jumbotron jumbotron-fluid"
-     style="background-image:url('/images/covers/');
-            background-position: center;
-            background-size: cover;
-            clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
-            min-height:400px;
-            color:#fff;
-            text-shadow:1px 1px 3px #333;">
-  <div class="container">
-    <h1 class="display-4">Tags</h1>
-    <p class="lead"></p>
-  </div>
-</div>
-
+    
     <div class="container">
       
-  <mai></main>
-  <section>
-    
-  </section>
+  <main class="col-xs-12 col-md-8 offset-md-2">
+  </main>
 
-      
-        <aside class="col-xs-12 col-md-4">
-        </aside>
-      
     </div>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>

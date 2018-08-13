@@ -1,0 +1,32 @@
+.jumbotron {
+  background-position: center;
+  background-size: cover;
+  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+  min-height:300px;
+  text-shadow:1px 1px 3px #fff;
+}
+
+table {
+  width:100%;
+  margin-bottom:3em;
+}
+thead {
+  font-weight:400;
+  text-align:right;
+}
+thead th {
+  border-bottom: 1px solid background:rgba(0,0,0,.05);
+  background:#f7f7f5;
+  padding: 8px;
+}
+table td {
+  padding: 8px;
+  border-bottom:solid 1px #ededed;
+}
+
+h2 {
+  border-bottom: 1px dotted #e4e9f0;
+  padding-bottom:.25em;
+  margin-top:1em;
+  margin-bottom:.5em;
+}

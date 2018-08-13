@@ -29,6 +29,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="/styles/default.css">
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -51,29 +53,55 @@
   </div>
 </nav>
 
-    <div class="jumbotron jumbotron-fluid"
-     style="background-image:url('/images/covers/');
-            background-position: center;
-            background-size: cover;
-            clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
-            min-height:400px;
-            color:#fff;
-            text-shadow:1px 1px 3px #333;">
+    <div class="jumbotron"
+     style="background-image:url('/images/covers/badminton_1.jpg');">
   <div class="container">
-    <h1 class="display-4">North Foreland Regional Badminton Association</h1>
-    <p class="lead"></p>
+    <div class="row">
+      <div class="col-xs-12 col-md-8 offset-md-2">
+        <h1 class="display-4">North Foreland Regional Badminton Association</h1>
+        
+      </div>
+    </div>
   </div>
 </div>
 
     <div class="container">
       
-  <main>
+  <main class="col-xs-12 col-md-8 offset-md-2">
+
+<h1 id="latest-news">Latest News</h1>
+
+      <section><div>
+  <h2><a href="/posts/my-first-post/">My First Post</a></h2>
+  
+    <div class="row">
+      <div class="col-3">
+        <img src="/images/covers/badminton_2.jpg" class="img-fluid" alt="" />
+      </div>
+      <div class="col-9">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        <a href="/posts/my-first-post/">read more</a>
+      </div>
+    </div>
+  
+</div>
+<hr>
+</section>
+    
   </main>
 
-      
-        <aside class="col-xs-12 col-md-4">
-        </aside>
-      
     </div>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
