@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ .Title }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta charset="utf-8">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-title" content="{{ .Title }}">
+    <meta name="google-site-verification" content="8ZtwW1rYC1Zzst10tsARdBDaCIvZXfxs9FRlgv4HANo" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="icon" href="favicon-32.png" sizes="32x32">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="favicon-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="favicon-57.png">
+    <meta name="msapplication-TileImage" content="favicon-144.png">
+    <meta name="msapplication-TileColor" content="#0095DA">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="/styles/default.css">
+
+  </head>
+  <body>
+    {{ partial "navigation.html" . }}
+    {{ if isset .Params "hero" }}{{ partial "jumbotron.html" . }}{{ end }}
+    <div class="container">
+      {{block "main" .}}
+        <main class="col-xs-12 col-md-8 offset-md-2">
+          {{ if not (isset .Params "hero") }}<h1>{{ .Title }}</h1>{{ end }}
+          {{ .Content }}
+        </main>
+      {{end}}
+    </div>
+  </body>
+</html>
