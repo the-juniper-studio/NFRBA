@@ -1,5 +1,6 @@
 {{ define "main" }}
-  <main>
+  <main role="main" id="main">
+    <h1>{{ .Title }}</h1>
     {{- .Content -}}
     {{ range .Pages }}
       <section>

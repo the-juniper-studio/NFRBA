@@ -1,18 +1,21 @@
-<div>
-  <h2><a href="{{ .URL }}">{{ .Title }}</a></h2>
-  {{ if isset .Params "hero" }}
-    <div class="row">
-      <div class="col-3">
-        <img src="/images/covers/{{ .Params.hero}}" class="img-fluid" alt="" />
-      </div>
-      <div class="col-9">
-        {{ .Summary  }}
-        <a href="{{ .URL }}">read more</a>
-      </div>
+{{ if isset .Params "thumbnail" }}
+  <section class="grid">
+    <div>
+      <img src="/images/covers/{{ .Params.thumbnail}}" class="img-fluid" alt="" />
     </div>
-  {{ else }}
-    {{ .Summary  }}
-       <a href="{{ .URL }}">read more</a>
-  {{ end }}
-</div>
+    <div class="mt-0">
+      <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+      {{ .Summary  }}
+      <a href="{{ .URL }}">read more</a>
+    </div>
+  </section>
+{{ else }}
+  <section>
+    <div class="mt-0">
+      <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+      {{ .Summary  }}
+      <a href="{{ .URL }}">read more</a>
+    </div>
+  </section>
+{{ end }}
 <hr>

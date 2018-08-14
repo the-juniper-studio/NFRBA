@@ -1,10 +1,9 @@
 {{ define "main" }}
-  <main>
+  <main role="main" id="main">
+    <h1>{{ .Title }}</h1>
     {{- .Content -}}
     {{range where (where .Site.Pages "Section" "posts") ".Title" "!=" "Posts" }}
-      <section>
-        {{- partial "summary.html" . -}}
-      </section>
+      {{- partial "summary.html" . -}}
     {{ end }}
   </main>
 {{ end }}
