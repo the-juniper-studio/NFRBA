@@ -126,9 +126,11 @@ table td {
 
 /* Headings */
 
-h1 {font-size:4rem;}
-h2 {font-size:2.5rem;}
-h3 {font-size:1.5rem;}
+@media (min-width: 50em) {
+  h1 {font-size:4rem;}
+  h2 {font-size:2.5rem;}
+  h3 {font-size:1.5rem;}
+}
 
 h1 {
   border-bottom: 1px solid rgba(0,0,0,.1);
