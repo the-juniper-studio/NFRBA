@@ -6,7 +6,7 @@
     <div class="mt-0">
       <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
       {{ .Summary  }}
-      <a href="{{ .URL }}">read more</a>
+      <div class="mt-0"><a href="{{ .URL }}">read more</a></div>
     </div>
   </section>
 {{ else }}
@@ -14,8 +14,8 @@
     <div class="mt-0">
       <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
       {{ .Summary  }}
-      <a href="{{ .URL }}">read more</a>
+      <div class="mt-0"><a href="{{ .URL }}">read more</a></div>
     </div>
   </section>
 {{ end }}
-<hr>
+<hr aria-hidden="true" role="presentation">
