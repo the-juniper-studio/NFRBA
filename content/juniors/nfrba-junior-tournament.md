@@ -4,6 +4,11 @@ date: 2018-08-12T22:52:28+01:00
 hero: "badminton_2.jpg"
 ---
 
+_Held on Sunday 4th February 2018_
+
+This list shows the final order of the players within each group
+<!--more-->
+
 [Under 11](#under-11) | [Under 13](#under-13) | [Under 15](#under-15) | [15 Plus](#15-plus) | [Under 17](#under-17) | [17 Plus](#17-plus) | [Under 19](#under-19)
 
 ## Under-11
