@@ -8,118 +8,117 @@ hero: "badminton_1.jpg"
 
 ## Mixed Premier
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
-
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |
 
 ## Mixed 1
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Westgate I          |    8    |  6  |  43  |    29   |   12   |
-| Faversham           |    8    |  6  |  39  |    33   |   12   |
-| Rovers              |    8    |  4  |  39  |    33   |    8   |
-| Hartdown Park       |    8    |  2  |  31  |    41   |    4   |
-| Westgate II         |    8    |  2  |  28  |    44   |    4   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Westgate I          |  8  |  6  |  43 |  29 |  12 |
+| Faversham           |  8  |  6  |  39 |  33 |  12 |
+| Rovers              |  8  |  4  |  39 |  33 |   8 |
+| Hartdown Park       |  8  |  2  |  31 |  41 |   4 |
+| Westgate II         |  8  |  2  |  28 |  44 |   4 |
 
 
 ## Mixed 2
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Scorpions           |    8    |  6  |  52  |    20   |   12   |
-| Racqueteers         |    8    |  6  |  50  |    22   |   12   |
-| Ajax                |    8    |  6  |  48  |    24   |   12   |
-| Apollo              |    8    |  2  |  28  |    44   |    4   |
-| Minster             |    8    |  0  |   2  |    70   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Scorpions           |  8  |  6  |  52 |  20 |  12 |
+| Racqueteers         |  8  |  6  |  50 |  22 |  12 |
+| Ajax                |  8  |  6  |  48 |  24 |  12 |
+| Apollo              |  8  |  2  |  28 |  44 |   4 |
+| Minster             |  8  |  0  |   2 |  70 |   0 |
 
 
 ## Composite 1
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| The Kings I         |   14    | 13  | 105  |    21   |   26   |
-| Apollo (Ashford)    |   14    | 11  |  93  |    33   |   22   |
-| Westgate I          |   14    | 10  |  75  |    51   |   20   |
-| Invicta-Pilgrims    |   14    |  9  |  78  |    48   |   18   |
-| Hartdown Park       |   14    |  6  |  57  |    69   |   12   |
-| The Kings II        |   14    |  5  |  40  |    86   |   10   |
-| Kings Road I        |   14    |  2  |  35  |    91   |    0   |
-| Racqueteers I       |   14    |  0  |  21  |   105   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| The Kings I         | 14  | 13  | 105 |  21 |  26 |
+| Apollo (Ashford)    | 14  | 11  |  93 |  33 |  22 |
+| Westgate I          | 14  | 10  |  75 |  51 |  20 |
+| Invicta-Pilgrims    | 14  |  9  |  78 |  48 |  18 |
+| Hartdown Park       | 14  |  6  |  57 |  69 |  12 |
+| The Kings II        | 14  |  5  |  40 |  86 |  10 |
+| Kings Road I        | 14  |  2  |  35 |  91 |   0 |
+| Racqueteers I       | 14  |  0  |  21 | 105 |   0 |
 
 
 ## Composite 2
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Westgate II         |   12    | 10  |  89  |    19   |   20   |
-| Christ Church Uni   |   12    |  9  |  61  |    46   |   15   |
-| Apollo              |   12    |  7  |  59  |    49   |   14   |
-| Faversham           |   12    |  6  |  53  |    55   |   10   |
-| Kings Road II       |   12    |  5  |  48  |    60   |   10   |
-| Rovers              |   12    |  3  |  37  |    70   |    7   |
-| Racqueteers II      |   12    |  1  |  30  |    78   |    2   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Westgate II         | 12  | 10  |  89 |  19 |  20 |
+| Christ Church Uni   | 12  |  9  |  61 |  46 |  15 |
+| Apollo              | 12  |  7  |  59 |  49 |  14 |
+| Faversham           | 12  |  6  |  53 |  55 |  10 |
+| Kings Road II       | 12  |  5  |  48 |  60 |  10 |
+| Rovers              | 12  |  3  |  37 |  70 |   7 |
+| Racqueteers II      | 12  |  1  |  30 |  78 |   2 |
 
 
 ## Mens6 1
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |
 
 
 ## Mens6 2
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |
 
 
 ## Mens6 3
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |
 
 
 ## Ladies4
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |
 
 
 ## Juniors 1
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |
 
 
 ## Juniors 2
 
-|                     | Played  | Won | For  | Against | Points |
-| ------------------- | -------:| ---:| ---: | ------: | -----: |
-| Apollo (Ashford) I  |    6    |  4  |  28  |    26   |    8   |
-| The Kings           |    6    |  4  |  32  |    22   |    6   |
-| Apollo (Ashford) II |    6    |  3  |  28  |    26   |    6   |
-| Kings Road          |    6    |  1  |  20  |    34   |    0   |
+|                     |  Pl |  Wn | For |  Ag | Pts |
+| ------------------- | --: | --: | --: | --: | --: |
+| Apollo (Ashford) I  |  6  |  4  |  28 |  26 |  8  |
+| The Kings           |  6  |  4  |  32 |  22 |  6  |
+| Apollo (Ashford) II |  6  |  3  |  28 |  26 |  6  |
+| Kings Road          |  6  |  1  |  20 |  34 |  0  |

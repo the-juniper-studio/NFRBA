@@ -12,11 +12,9 @@ body {
   text-align: left;
   background-color: #fff;
 }
-main {
+.container {
   scroll-behavior: smooth;
 }
-
-
 [hidden] {display: none;}
 ::selection {background:gold;}
 

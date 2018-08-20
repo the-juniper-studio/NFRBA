@@ -28,46 +28,39 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:300" rel="stylesheet">
+
     <link rel="stylesheet" href="/styles/default.css">
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container">
-    <a class="navbar-brand" href="#"><img src="http://www.nfrba.co.uk/nfrba2.gif" height="30px"/> NFRBA</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active"><a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a></li>
-        <li class="nav-item"><a class="nav-link" href="/tables">Tables</a></li>
-        <li class="nav-item"><a class="nav-link" href="/clubs">Club Info</a></li>
-        <li class="nav-item"><a class="nav-link" href="/events">Events</a></li>
-        <li class="nav-item"><a class="nav-link" href="/juniors">Juniors</a></li>
-        <li class="nav-item"><a class="nav-link" href="/documents">Documents</a></li>
-        <li class="nav-item"><a class="nav-link" href="/fixtures-and-results">Fixtures and Results</a></li>
-      </ul>
-    </div>
-  </div>
+    <a href="#main">skip to main content</a>
+    <nav role="navigation">
+  <button aria-expanded="false">Menu</button>
+  <ul hidden>
+    <li><a href="/" aria-describedby="current"><img src="/images/nfrba_small.jpg" alt="North Foreland Regional Badminton Association Homepage"/> <span aria-hidden="true" role="presentation">NFRBA</span></a>
+    <li><a href="/tables">Tables</a></li>
+    <li><a href="/clubs">Club Info</a></li>
+    <li><a href="/events">Events</a></li>
+    <li><a href="/juniors">Juniors</a></li>
+    <li><a href="/documents">Documents</a></li>
+    <li><a href="/fixtures-and-results">Fixtures and Results</a></li>
+  </ul>
+  <div hidden id="current">Current page</div>
 </nav>
 
     <div class="jumbotron" style="background-image:url('/images/covers/badminton_1.jpg');">
-  <div class="container">
-    <h1 class="display-4">Tables</h1>
-    
-  </div>
 </div>
 
     <div class="container">
       
-        <main>
-          
+        <main role="main" id="main">
+          <h1>Tables</h1>
           
 
-<p><a href="#mixed-primer">Mixed Primier</a> | <a href="#mixed-1">Mixed 1</a> | <a href="#mixed-2">Mixed 2</a> | <a href="#composite-1">Composite 1</a> | <a href="#composite-2">Composite 2</a> | <a href="#Mens6-1">Mens6 1</a> | <a href="#Mens6-2">Mens6 2</a> | <a href="#Mens6-3">Mens6 3</a> | <a href="#Ladies4">Ladies4</a> | <a href="#juniors-1">Juniors 1</a> | <a href="#juniors-2">Juniors 2</a></p>
+<p><a href="#mixed-primer">Mixed Primier</a> | <a href="#mixed-1">Mixed 1</a> | <a href="#mixed-2">Mixed 2</a> | <a href="#composite-1">Composite 1</a> | <a href="#composite-2">Composite 2</a> | <a href="#mens6-1">Mens6 1</a> | <a href="#mens6-2">Mens6 2</a> | <a href="#mens6-3">Mens6 3</a> | <a href="#ladies4">Ladies4</a> | <a href="#juniors-1">Juniors 1</a> | <a href="#juniors-2">Juniors 2</a></p>
 
 <h2 id="mixed-premier">Mixed Premier</h2>
 
@@ -75,11 +68,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -128,11 +121,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -190,11 +183,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -252,11 +245,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -341,11 +334,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -421,11 +414,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -474,11 +467,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -527,11 +520,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -580,11 +573,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -633,11 +626,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -686,11 +679,11 @@
 <thead>
 <tr>
 <th></th>
-<th align="right">Played</th>
-<th align="right">Won</th>
+<th align="right">Pl</th>
+<th align="right">Wn</th>
 <th align="right">For</th>
-<th align="right">Against</th>
-<th align="right">Points</th>
+<th align="right">Ag</th>
+<th align="right">Pts</th>
 </tr>
 </thead>
 
@@ -737,6 +730,13 @@
       
     </div>
     <script>
+      var navButton = document.querySelector('nav button');
+      navButton.addEventListener('click', function() {
+        let expanded = this.getAttribute('aria-expanded') === 'true' || false;
+        this.setAttribute('aria-expanded', !expanded);
+        let menu = this.nextElementSibling;
+        menu.hidden = !menu.hidden;
+      });
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
           if (!user) {

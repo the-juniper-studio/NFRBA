@@ -29,67 +29,72 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:300" rel="stylesheet">
+
     <link rel="stylesheet" href="/styles/default.css">
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container">
-    <a class="navbar-brand" href="#"><img src="http://www.nfrba.co.uk/nfrba2.gif" height="30px"/> NFRBA</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active"><a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a></li>
-        <li class="nav-item"><a class="nav-link" href="/tables">Tables</a></li>
-        <li class="nav-item"><a class="nav-link" href="/clubs">Club Info</a></li>
-        <li class="nav-item"><a class="nav-link" href="/events">Events</a></li>
-        <li class="nav-item"><a class="nav-link" href="/juniors">Juniors</a></li>
-        <li class="nav-item"><a class="nav-link" href="/documents">Documents</a></li>
-        <li class="nav-item"><a class="nav-link" href="/fixtures-and-results">Fixtures and Results</a></li>
-      </ul>
-    </div>
-  </div>
+    <a href="#main">skip to main content</a>
+    <nav role="navigation">
+  <button aria-expanded="false">Menu</button>
+  <ul hidden>
+    <li><a href="/" aria-describedby="current"><img src="/images/nfrba_small.jpg" alt="North Foreland Regional Badminton Association Homepage"/> <span aria-hidden="true" role="presentation">NFRBA</span></a>
+    <li><a href="/tables">Tables</a></li>
+    <li><a href="/clubs">Club Info</a></li>
+    <li><a href="/events">Events</a></li>
+    <li><a href="/juniors">Juniors</a></li>
+    <li><a href="/documents">Documents</a></li>
+    <li><a href="/fixtures-and-results">Fixtures and Results</a></li>
+  </ul>
+  <div hidden id="current">Current page</div>
 </nav>
 
     <div class="jumbotron" style="background-image:url('/images/covers/badminton_1.jpg');">
-  <div class="container">
-    <h1 class="display-4">North Foreland Regional Badminton Association</h1>
-    
-  </div>
 </div>
 
     <div class="container">
       
-  <main>
+  <main role="main" id="main">
+    <h1>North Foreland Regional Badminton Association</h1>
 
-<h1 id="latest-news">Latest News</h1>
+<h2 id="latest-news">Latest News</h2>
 
-      <section><div>
-  <h2><a href="/posts/my-first-post/">My First Post</a></h2>
-  
-    <div class="row">
-      <div class="col-3">
-        <img src="/images/covers/badminton_2.jpg" class="img-fluid" alt="" />
-      </div>
-      <div class="col-9">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        <a href="/posts/my-first-post/">read more</a>
-      </div>
+  <section>
+    <div class="mt-0">
+      <h3 class="mt-0"><a href="/news/club-event-report-2018/">Club Event 2018 – Report</a></h3>
+      With a bit of a struggle we just reached the ideal of 12 teams – until a late drop-out reduced this to 11 with no chance of filling any gap – a shame but these things happen. The clubs entering changed somewhat from last year with Invicta/Pilgrims being absent and The Kings and Apollo&copy; entering. So we had a group of 6 teams and one of 5. A sub-group of the Committee sorted out handicaps for each player based on information from the clubs themselves and from our own knowledge – but these handicaps were and remain secret.
+      <div class="mt-0"><a href="/news/club-event-report-2018/">read more</a></div>
     </div>
-  
-</div>
-<hr>
-</section>
-    
+  </section>
+
+<hr aria-hidden="true" role="presentation">
+
+  <section>
+    <div class="mt-0">
+      <h3 class="mt-0"><a href="/news/no-strings-badminton-sessions/">No Strings Badminton Sessions</a></h3>
+      No Strings Badminton is the low cost way to play badminton for relaxed, social game-play for adult (16+) players of all abilities.
+Grab the opportunity to enjoy convenient weekly court time that gets you swinging a racket for fun and fitness with people like you.
+There are around 1,000 No Strings Badminton &lsquo;drop in&rsquo; sessions running each week across England led by a friendly session coordinator ready to welcome you onto court.
+      <div class="mt-0"><a href="/news/no-strings-badminton-sessions/">read more</a></div>
+    </div>
+  </section>
+
+<hr aria-hidden="true" role="presentation">
+
   </main>
 
     </div>
     <script>
+      var navButton = document.querySelector('nav button');
+      navButton.addEventListener('click', function() {
+        let expanded = this.getAttribute('aria-expanded') === 'true' || false;
+        this.setAttribute('aria-expanded', !expanded);
+        let menu = this.nextElementSibling;
+        menu.hidden = !menu.hidden;
+      });
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
           if (!user) {
