@@ -179,6 +179,11 @@ a:hover {
   right: auto;
 }
 
+/* lists */
+ul li + li {
+  margin-top:.25em;
+}
+
 /* grid */
 .grid {
   display:grid;
