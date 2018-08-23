@@ -24,6 +24,7 @@ nav {
   background-color:#f8f9fa;
   padding: .5rem 0;
   margin-top:0;
+  overflow:hidden;
 }
 nav button {
   padding:.5rem 1rem;
@@ -31,7 +32,8 @@ nav button {
   font-size:1em;
   background:none;
   cursor:pointer;
-  margin:.5em;
+  margin:0 .5em;
+  float:right;
 }
 nav ul {
   list-style:none;
@@ -41,7 +43,8 @@ nav ul {
   display:flex;
   flex-direction:column;
 }
-nav ul li {
+nav ul li,
+nav ul li + li {
   margin-top:0;
 }
 nav ul li a {
@@ -58,14 +61,17 @@ nav ul li a:hover,
 nav ul li a:active {
   color:rgba(0,0,0,.5);
 } 
-nav ul li:first-child {
-  margin-right:auto;
+nav ul {
+  margin-left:auto;
 }
-nav ul li:first-child a {
+nav > a {
   padding:0.2rem 1rem;
   font-size:1.25rem;
+  border:none;
+  display:inline-block;
+  margin: 0 auto;
 }
-nav ul li a img {
+nav > a img {
   height:30px;
   vertical-align: middle;
   border-style: none;
@@ -77,6 +83,9 @@ nav ul li a img {
   }
   nav ul {
     flex-direction:row;
+    float:right;
+    width:auto;
+    margin-right:.5em;
   }
   nav ul[hidden] {
     display:flex;
