@@ -19,4 +19,4 @@ One question perhaps to consider for next year. Is the event too long? It starte
 
 Having said all that, the feedback indicated another enjoyable day.
 
-*David Gardner*
+**David Gardner**
