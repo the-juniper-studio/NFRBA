@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Congratulations to the 2017/18 season winners
+title: 2017/18 season winners
 date: 2018-05-31T22:17:51.686Z
 hero: /images/uploads/badders.jpg
 ---
