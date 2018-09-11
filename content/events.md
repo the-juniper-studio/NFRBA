@@ -1,7 +1,15 @@
 ---
-title: "Events"
-date: 2018-08-07T17:42:59+01:00
-hero: "badminton_3.jpg"
+title: Events
+hero: badminton_3.jpg
 ---
+## Upcoming Events
 
-Events
+More events coming soon
+
+
+
+## Past Events
+
+Junior Tournament, Sunday 4th February 2018
+
+results
