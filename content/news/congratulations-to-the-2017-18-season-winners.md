@@ -4,10 +4,10 @@ title: Congratulations to the 2017/18 season winners
 date: 2018-05-31T22:17:51.686Z
 hero: /images/uploads/badders.jpg
 ---
-## Divisional Winners
-
 Many thanks to all the teams who entered this year, and congratulations to our divisional winners:
+
 <!--more-->
+
 Mixed Premier - Apollo (Ashford) I\
 Mixed 1 - Westgate I\
 Mixed 2 - Scorpions\
