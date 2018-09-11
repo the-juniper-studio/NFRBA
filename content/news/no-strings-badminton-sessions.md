@@ -1,7 +1,7 @@
 ---
 title: "No Strings Badminton Sessions"
 date: 2018-08-07T22:52:28+01:00
-hero: "badminton_2.jpg"
+hero: /images/uploads/badminton_2.jpg
 ---
 No Strings Badminton is the low cost way to play badminton for relaxed, social game-play for adult (16+) players of all abilities. 
 

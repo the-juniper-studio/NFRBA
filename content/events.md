@@ -1,6 +1,6 @@
 ---
 title: Events
-hero: badminton_3.jpg
+hero: /images/uploads/badminton_3.jpg
 ---
 ## Upcoming Events
 

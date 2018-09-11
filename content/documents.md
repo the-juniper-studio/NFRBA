@@ -1,6 +1,6 @@
 ---
 title: Documents
-hero: badminton_2.jpg
+hero: /images/uploads/badminton_2.jpg
 ---
 ## General
 

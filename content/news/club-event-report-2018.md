@@ -1,7 +1,7 @@
 ---
 title: Club Event 2018 – Report
 date: 2018-08-07T21:52:28.000Z
-hero: badminton_2.jpg
+hero: /images/uploads/badminton_2.jpg
 ---
 With a bit of a struggle we just reached the ideal of 12 teams – until a late drop-out reduced this to 11 with no chance of filling any gap – a shame but these things happen. The clubs entering changed somewhat from last year with Invicta/Pilgrims being absent and The Kings and Apollo(C) entering. So we had a group of 6 teams and one of 5. A sub-group of the Committee sorted out handicaps for each player based on information from the clubs themselves and from our own knowledge – but these handicaps were and remain secret.
 
