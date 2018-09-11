@@ -2,7 +2,7 @@
 title: Documents
 hero: badminton_2.jpg
 ---
-**General**
+## General
 
 [General rules](https://docs.google.com/document/d/1P_wMLAwqHUwoejLpIUeyCnKEhmCebcnYcbi6PGqTrSY/edit)
 
@@ -12,7 +12,7 @@ hero: badminton_2.jpg
 
 [Rally points scoring info](https://docs.google.com/document/d/1O9OtdByddgmNBAY-1ixU7-5Ad8CtySftiuibTxYaDSA/edit)
 
-**Printable Scorecards**
+## Printable Scorecards
 
 [4 player match card](https://drive.google.com/file/d/1g6O0UqftyJzsnKRQb91Xyq-uLOOCc20o/view)
 
@@ -20,7 +20,7 @@ hero: badminton_2.jpg
 
 [Composite match card](https://drive.google.com/file/d/1f_ZaOmkMVALmYmAOVjGWoKsaK-VcUN8P/view?usp=sharing)
 
-**Electronic Scorecards**
+## Electronic Scorecards
 
 (once google doc has loaded select File, Download as)
 
