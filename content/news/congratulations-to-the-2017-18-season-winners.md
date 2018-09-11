@@ -7,7 +7,7 @@ hero: /images/uploads/badders.jpg
 ## Divisional Winners
 
 Many thanks to all the teams who entered this year, and congratulations to our divisional winners:
-
+<!--more-->
 Mixed Premier - Apollo (Ashford) I\
 Mixed 1 - Westgate I\
 Mixed 2 - Scorpions\
