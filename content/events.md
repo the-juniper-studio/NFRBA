@@ -6,10 +6,8 @@ hero: badminton_3.jpg
 
 More events coming soon
 
-
-
 ## Past Events
 
-Junior Tournament, Sunday 4th February 2018
+Inter Club Event, Saturday 14th May 2018 - read report
 
-results
+Junior Tournament, Sunday 4th February 2018 - [view results](http://www.nfrba.co.uk/Jnr/tourn/Results_Feb18_complete.pdf)
