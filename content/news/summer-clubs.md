@@ -3,7 +3,7 @@ layout: default
 title: Summer Clubs
 date: 2018-06-01T09:06:00.000Z
 ---
-Though the season is over there are still plenty of opportunities to play badminton throughout the summer months.
+Though the season is over there are still plenty of opportunities to play badminton with many clubs running sessions throughout the summer months.
 <!--more-->
 Westgate – Thursdays 7.30-10 at King Ethelberts School, Birchington
 
