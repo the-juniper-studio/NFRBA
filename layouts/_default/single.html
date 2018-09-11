@@ -1,7 +1,8 @@
 {{ define "main" }}
   <main role="main" id="main">
     <h1>{{ .Title }}</h1>
-    <div class="text-center"><small><strong>{{ if eq .Dir "news/" }}Published:{{ else if eq .Dir "tables/" }}Last Updated:{{ end }}</strong> {{ .Page.PublishDate.Day }} {{ .Page.PublishDate.Month }}, {{ .Page.PublishDate.Year }}</small></div>
+    {{ if eq .Dir "news/" }}<div class="text-center"><small><strong>Published:</strong> {{ .Page.PublishDate.Day }} {{ .Page.PublishDate.Month }}, {{ .Page.PublishDate.Year }}</small></div>{{ end }}
+    {{ if eq .Dir "tables/" }}<div class="text-center"><small><strong>Last Updated:</strong> {{ .Page.PublishDate.Day }} {{ .Page.PublishDate.Month }}, {{ .Page.PublishDate.Year }}</small></div>{{ end }}
     {{ .Content }}
   </main>
 {{end}}
