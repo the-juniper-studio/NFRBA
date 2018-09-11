@@ -11,7 +11,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Hero Image', name: 'hero', widget: 'image' }
+      - { label: 'Hero Image', name: 'hero', widget: 'image', required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'News' # Used in routes, e.g., /admin/collections/blog
     label: 'News' # Used in the UI
@@ -22,7 +22,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Hero Image', name: 'hero', widget: 'image' }
+      - { label: 'Hero Image', name: 'hero', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Juniors' # Used in routes, e.g., /admin/collections/blog
     label: 'Juniors' # Used in the UI
@@ -33,7 +33,7 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Hero Image', name: 'hero', widget: 'image' }
+      - { label: 'Hero Image', name: 'hero', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'Tables' # Used in routes, e.g., /admin/collections/blog
     label: 'Tables' # Used in the UI
@@ -44,5 +44,5 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Hero Image', name: 'hero', widget: 'image' }
+      - { label: 'Hero Image', name: 'hero', widget: 'image', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
