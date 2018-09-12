@@ -107,7 +107,7 @@ hero: /images/uploads/badminton_4.jpg
 **Times:** 7.00 - 10.00\
 **Number of Courts:** 1 
 
-## Racqueteers - hello
+## Racqueteers
 
 **Club nights:** Tuesday.\
 **Venue:**  Spires Academy, Bredlands Lane, Westbere, Canterbury CT2 0HD.\
