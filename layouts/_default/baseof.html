@@ -38,7 +38,9 @@
   <body>
     <a href="#main">skip to main content</a>
     {{ partial "navigation.html" . }}
-    {{ if isset .Params "hero" }}{{ partial "jumbotron.html" . }}{{ end }}
+    {{ if ( .Params.hero ) and ( .Params.hero "!=" "") }}
+      {{ partial "jumbotron.html" . }}
+    {{ end }}
     <div class="container">
       {{block "main" .}}
         <main role="main" id="main">
@@ -47,6 +49,7 @@
         </main>
       {{end}}
     </div>
+    {{ partial "footer.html" . }}
     <script>
       var navButton = document.querySelector('nav button');
       navButton.addEventListener('click', function() {

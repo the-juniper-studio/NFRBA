@@ -208,6 +208,9 @@ ul li + li {
 .text-center {
   text-align:center;
 }
+.text-right {
+  text-align:right;
+}
 
 hr {
   border-width: 1px 0 0 0;
@@ -215,4 +218,11 @@ hr {
   width: 50%;
   display: block;
   margin: 3rem auto;
+}
+
+/* footer */
+footer {
+  background-color:#333;
+  color:#fff;
+  padding:1em 0;
 }
