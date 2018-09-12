@@ -1,9 +1,7 @@
 ---
-title: "Club Info"
-date: 2018-08-07T17:42:59+01:00
+title: Club Info
 hero: /images/uploads/badminton_4.jpg
 ---
-
 ## Ajax
 
 **Club nights:** Mondays.\
@@ -109,7 +107,7 @@ hero: /images/uploads/badminton_4.jpg
 **Times:** 7.00 - 10.00\
 **Number of Courts:** 1 
 
-## Racqueteers
+## Racqueteers - hello
 
 **Club nights:** Tuesday.\
 **Venue:**  Spires Academy, Bredlands Lane, Westbere, Canterbury CT2 0HD.\
@@ -143,7 +141,5 @@ hero: /images/uploads/badminton_4.jpg
 **Venue:** Folkestone Sports Centre, Radnor Park Avenue CT19 5HX.\
 **Times:** Friday 7.00 - 10.00.\
 **Number of Courts:** 2
-
-
 
 If any club information is out of date please use the [contact](/contact/) form to share updated details.
