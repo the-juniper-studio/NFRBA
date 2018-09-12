@@ -5,12 +5,7 @@
     </div>
     <div class="mt-0">
       <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
-      {{ if eq .Title "tables" }}
-        Table
-      {{ else }}
-        Not Table {{.Title}}
-<!--         {{ .Summary  }} -->
-      {{ end }}
+      {{ .Summary  }}
       <div class="mt-0"><a href="{{ .URL }}">read more</a></div>
     </div>
   </section>
@@ -18,12 +13,7 @@
   <section>
     <div class="mt-0">
       <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
-      {{ if eq .Title "tables" }}
-        Table
-      {{ else }}
-        Not Table {{.Title}}
-<!--         {{ .Summary  }} -->
-      {{ end }}
+      {{ .Summary  }}
       <div class="mt-0"><a href="{{ .URL }}">read more</a></div>
     </div>
   </section>
