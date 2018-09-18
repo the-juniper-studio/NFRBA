@@ -61,7 +61,7 @@ hero: /images/uploads/badminton_4.jpg
 
 **Club nights:** Thursday 7.00pm - 10.00pm\
 **Venue:** Herne Bay High School, Bullockstone Rd, CT6 7NS.\
-**Match details: **Thursday 7.00pm - 9.00pm. 2+ courts
+**Match details:** Thursday 7.00pm - 9.00pm. 2+ courts
 
 ## Minster
 
@@ -83,9 +83,9 @@ hero: /images/uploads/badminton_4.jpg
 
 ## Scorpions
 
-**Club nights:** Thursday 7.30pm - 9.30pm
+**Club nights:** Thursday 7.30pm - 9.30pm\
 **Venue:** Sandwich Technology College, Deal Road, Sandwich CT13 0FA.\
-**Match details:** Thursday 7.30pm - 9.30/10.00pm. 3-4 courts 
+**Match details:** Thursday 7.30pm - 9.30 / 10.00pm. 3-4 courts 
 
 ## The Kings
 
