@@ -30,32 +30,32 @@ hero: /images/uploads/badminton_4.jpg
 
 **Club nights:** Saturday 11.00am - 12.30pm\
 **Venue:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ\
-**Match details: **Saturday 11.00am - 12.30pm. 4 courts.
+**Match details:** Saturday 11.00am - 12.30pm. 4 courts.
 
 ## Faversham
 
 **Club nights:** Tuesday 7.00pm - 10.00pm\
 **Venue:** Queen Elizabeth School Sports Hall, Abbey Place, Faversham, ME13 7BQ.\
-**Match details: **various days, often Tuesday 7.30pm - 10.00pm. 2+ courts
+**Match details:** various days, often Tuesday 7.30pm - 10.00pm. 2+ courts
 
 ## Hartsdown Park
 
-**Club nights: **Monday 7.30pm - 10.30pm\
+**Club nights:** Monday 7.30pm - 10.30pm\
 **Venue:** Ramsgate Sports Centre, CT11 9TT\
-**Match details: **Hartsdown Leisure Centre, Hartsdown Road, Margate CT9 5QX. Monday 7.30pm - 10.30pm. 2 courts\
-**Juniors: **Hartsdown Leisure Centre, Saturday 2pm - 4pm
+**Match details:** Hartsdown Leisure Centre, Hartsdown Road, Margate CT9 5QX. Monday 7.30pm - 10.30pm. 2 courts\
+**Juniors:** Hartsdown Leisure Centre, Saturday 2pm - 4pm
 
 ## [Herne Bay Juniors](https://www.facebook.com/hbjuniorbadminton)
 
 **Club nights:** Saturday 10:00am - 12:00pm  ages 10 to 17 years.\
 **Venue:** Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
-**Match details: **Saturday 9.00am - 12.00pm. 4 courts
+**Match details:** Saturday 9.00am - 12.00pm. 4 courts
 
 ## [Invicta-Pilgrims](https://www.facebook.com/invictapilgrimsbc)
 
 **Club nights:** Thursday 7.00pm - 9.00pm\
 **Venue:** Spires Academy, Bredlands Lane, Westbere, CT2 0HD.\
-**Match details: **Monday 7.30pm - 9.30pm. 3 courts
+**Match details:** Monday 7.30pm - 9.30pm. 3 courts
 
 ## Kings Road
 
@@ -67,25 +67,25 @@ hero: /images/uploads/badminton_4.jpg
 
 **Club nights:** Monday & Thursday 7.00pm - 10.00pm\
 **Venue:** Village Hall, High Street, Minster CT12 4BU.\
-**Match details: **Monday or Thursday 7.00pm onwards. 1 court.
+**Match details:** Monday or Thursday 7.00pm onwards. 1 court.
 
 ## [Racqueteers](http://www.racqueteersbadminton.co.uk/)
 
 **Club nights:** Wednesday 7.30pm - 9.30pm\
 **Venue:**  Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS.\
-**Match details:  **Friday 7.30pm - 9.30pm. 2 + courts
+**Match details:** Friday 7.30pm - 9.30pm. 2 + courts
 
 ## Rovers
 
 **Club nights:** Tuesday 7.30pm - 10.00pm\
 **Venue:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ.\
-**Match details: **Friday 8.00pm - 10.00pm. 3 courts
+**Match details:** Friday 8.00pm - 10.00pm. 3 courts
 
 ## Scorpions
 
 **Club nights:** Thursday 7.30pm - 9.30pm
 **Venue:** Sandwich Technology College, Deal Road, Sandwich CT13 0FA.\
-**Match details: **Thursday 7.30pm - 9.30/10.00pm. 3-4 courts 
+**Match details:** Thursday 7.30pm - 9.30/10.00pm. 3-4 courts 
 
 ## The Kings
 
