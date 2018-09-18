@@ -2,10 +2,9 @@
 <html lang="en-gb">
   <head>
     <meta charset="utf-8">
-    <title>{{ .Title }}</title>
+    <title>{{ .Title }} -{{ .Summary | plainify }}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content='{{ .Summary | plainify }}from {{ .Title }} - Situated within North East Kent. Covering towns and cities such as Broadstairs, Birchington, Canterbury, Faversham, Herne Bay, Margate, Minster, Sandwich, Westgate and Whitstable'>
     <meta charset="utf-8">
     <meta http-equiv="cleartype" content="on">
     <meta name="HandheldFriendly" content="True">
@@ -32,7 +31,7 @@
 
     <link rel="stylesheet" href="/styles/default.css">
 
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
 
   </head>
   <body>
