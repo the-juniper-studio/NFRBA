@@ -4,7 +4,15 @@ hero: /images/uploads/badminton_3.jpg
 ---
 ## Upcoming Events
 
-More events coming soon
+Junior Falcons Cup, Sunday 25th November 2018, 10.00am - 1.00pm
+
+Junior Tournament, Sunday 3rd February 2019, 10.00am - 5.00pm
+
+Inter-Regional Seniors, Saturday 13th April 2019
+
+Inter-Regional Juniors, Sunday 28th April 2019
+
+Inter-Club Event, Saturday 11th May 2019, 10.00am - 5.00pm
 
 ## Past Events
 
