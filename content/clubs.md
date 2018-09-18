@@ -45,13 +45,13 @@ hero: /images/uploads/badminton_4.jpg
 **Match details: **Hartsdown Leisure Centre, Hartsdown Road, Margate CT9 5QX. Monday 7.30pm - 10.30pm. 2 courts\
 **Juniors: **Hartsdown Leisure Centre, Saturday 2pm - 4pm
 
-## [Herne Bay Juniors](www.facebook.com/hbjuniorbadminton)
+## [Herne Bay Juniors](https://www.facebook.com/hbjuniorbadminton)
 
 **Club nights:** Saturday 10:00am - 12:00pm  ages 10 to 17 years.\
 **Venue:** Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
 **Match details: **Saturday 9.00am - 12.00pm. 4 courts
 
-## [Invicta-Pilgrims](www.facebook.com/invictapilgrimsbc)
+## [Invicta-Pilgrims](https://www.facebook.com/invictapilgrimsbc)
 
 **Club nights:** Thursday 7.00pm - 9.00pm\
 **Venue:** Spires Academy, Bredlands Lane, Westbere, CT2 0HD.\
