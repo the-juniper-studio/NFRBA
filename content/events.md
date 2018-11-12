@@ -1,6 +1,6 @@
 ---
 title: Events
-hero: /images/uploads/badminton_3.jpg
+hero: /images/uploads/frame-harirak-602126-unsplash.jpg
 ---
 ## Upcoming Events
 
