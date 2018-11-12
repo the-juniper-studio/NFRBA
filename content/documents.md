@@ -6,8 +6,7 @@ hero: /images/uploads/badminton_2.jpg
 
 [General rules](https://docs.google.com/document/d/1P_wMLAwqHUwoejLpIUeyCnKEhmCebcnYcbi6PGqTrSY/edit)
 
-[Junior rules]
-(/images/uploads/junior_rules.pdf)
+[Junior rules](/images/uploads/junior_rules.pdf)
 
 [4 player and composite rules](https://docs.google.com/document/d/1A1w8PfIezoQjoJttcDfo6vnJbSSy_v_JT2g0QJiYjQM/edit)
 
@@ -22,6 +21,8 @@ hero: /images/uploads/badminton_2.jpg
 [6 player match card](https://drive.google.com/drive/folders/18v1DP07cLZBhpNbT4RzlG1fFR9yOA7XU)
 
 [Composite match card](https://drive.google.com/file/d/1f_ZaOmkMVALmYmAOVjGWoKsaK-VcUN8P/view?usp=sharing)
+
+[Junior match card](/images/uploads/jnrmatchsheet.pdf)
 
 ## Electronic Scorecards
 
