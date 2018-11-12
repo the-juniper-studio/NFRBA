@@ -5,14 +5,13 @@ date: 2018-11-12T20:51:14.664Z
 ---
 ## Badminton for members/non members at Kings
 
-<!--more-->
-
 **Mondays:**\
 BadminTone course (term time only course) 1.15-2.15\
 Badminton for All (for ages 5+) 18:15-19:30
+<!--more-->
 
 **Tuesdays:**\
-[ParaBadminton:](</master/static/images/uploads/parabadminton.jpg>) 20:00-21:30
+[ParaBadminton:](</images/uploads/parabadminton.jpg>) 20:00-21:30
 
 **Wednesdays:**\
 All Ability Badminton (term time only drop in session) 12:30-13:30\
