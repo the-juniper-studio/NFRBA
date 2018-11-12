@@ -1,7 +1,7 @@
 ---
-title: "NFRBA Junior Tournament"
-date: 2018-08-12T22:52:28+01:00
-hero: /images/uploads/badminton_2.jpg
+title: NFRBA Junior Tournament
+date: 2018-08-12T21:52:28.000Z
+hero: /images/uploads/badminton3.jpg
 ---
 
 _Held on Sunday 4th February 2018_
