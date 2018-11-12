@@ -129,6 +129,7 @@ table {
   width:100%;
   margin-bottom:3em;
   border-collapse:collapse;
+  table-layout:fixed;
 }
 thead {
   font-weight:300;
@@ -144,7 +145,7 @@ table td {
   border-bottom:solid 1px #ededed;
 }
 table td:empty {
-  background-color:#f8f9fa;
+  background-color:#f7f7f5;
 }
 
 
