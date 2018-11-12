@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Contact
-hero: /images/uploads/badders.jpg
+hero: /images/uploads/badminton_2.jpg
 ---
  
