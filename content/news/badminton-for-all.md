@@ -12,7 +12,7 @@ BadminTone course (term time only course) 1.15-2.15\
 Badminton for All (for ages 5+) 18:15-19:30
 
 **Tuesdays:**\
-[ParaBadminton:](</PARA BADMINTON KINGS (1).pdf>) 20:00-21:30
+[ParaBadminton:](</master/static/images/uploads/parabadminton.jpg>) 20:00-21:30
 
 **Wednesdays:**\
 All Ability Badminton (term time only drop in session) 12:30-13:30\
