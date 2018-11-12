@@ -1,6 +1,6 @@
 ---
 title: Fixtures and Results
-hero: /images/uploads/badminton_2.jpg
+hero: /images/uploads/badminton3.jpg
 ---
 [Mixed Premier](#mixed-premier) | [Mixed 1](#mixed-1) | [Composite 1](#composite-1) | [Composite 2](#composite-2) | [Mens6 1](#mens6-1) | [Mens6 2](#mens6-2) | [Mens6 3](#mens6-3) | [Ladies4](#ladies4)
 
