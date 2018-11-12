@@ -8,7 +8,6 @@ date: 2018-11-12T20:51:14.664Z
 **Mondays:**\
 BadminTone course (term time only course) 1.15-2.15\
 Badminton for All (for ages 5+) 18:15-19:30
-<!--more-->
 
 **Tuesdays:**\
 [ParaBadminton:](</images/uploads/parabadminton.jpg>) 20:00-21:30
