@@ -139,6 +139,7 @@ thead th {
   border-bottom: 1px solid rgba(0,0,0,.05);
   background:#f7f7f5;
   padding: .5rem;
+  font-weight: 300;
 }
 table td {
   padding: .5rem;
