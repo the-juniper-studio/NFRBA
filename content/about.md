@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-hero: /images/uploads/badminton_2.jpg
+hero: /images/uploads/badminton2.jpg
 ---
 Badminton is a great game for all ages and abilities including a growing para-badminton scene. We have players in the area from 5 to over 70 and the activity itself can range from an easy-going knock-about in the garden or on the beach to the extreme athleticism of the Olympic Games. The sport holds the record for the fastest hit - over 400 kph (250 mph), well ahead of golf (340 kph), squash and tennis to mention just a few.
 
