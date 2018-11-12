@@ -26,8 +26,6 @@ hero: /images/uploads/badminton_2.jpg
 
 ## Electronic Scorecards
 
-(once google doc has loaded select File, Download as)
-
 [4 player match card](/images/uploads/rps-4-player-match-card-version-110826.xlsx)
 
 [6 player match card](/images/uploads/rps-6-player-card-version-111007.xlsx)
