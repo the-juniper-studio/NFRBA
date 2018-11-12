@@ -4,23 +4,23 @@ hero: /images/uploads/badminton_2.jpg
 ---
 ## General
 
-[General rules](https://docs.google.com/document/d/1P_wMLAwqHUwoejLpIUeyCnKEhmCebcnYcbi6PGqTrSY/edit)
+[General rules](/images/uploads/nfrba-general-rules.pdf)
 
 [Junior rules](/images/uploads/junior_rules.pdf)
 
-[4 player and composite rules](https://docs.google.com/document/d/1A1w8PfIezoQjoJttcDfo6vnJbSSy_v_JT2g0QJiYjQM/edit)
+[4 player and composite rules](/images/uploads/nfrba-4-player-and-comp-rules.pdf)
 
-[Captain notes](https://docs.google.com/document/d/1SocFWDxyqVwBKSN2pYRlecyolxUi39cZLjZn0EsTgdQ/edit#)
+[Captain notes](/images/uploads/nfrba-captain-notes.pdf)
 
-[Rally points scoring info](https://docs.google.com/document/d/1O9OtdByddgmNBAY-1ixU7-5Ad8CtySftiuibTxYaDSA/edit)
+[Rally points scoring info](/images/uploads/nfrba-rally-points-scoring.pdf)
 
 ## Printable Scorecards
 
-[4 player match card](https://drive.google.com/file/d/1g6O0UqftyJzsnKRQb91Xyq-uLOOCc20o/view)
+[4 player match card](/images/uploads/4player_card.pdf)
 
-[6 player match card](https://drive.google.com/drive/folders/18v1DP07cLZBhpNbT4RzlG1fFR9yOA7XU)
+[6 player match card](/images/uploads/6player_card.pdf)
 
-[Composite match card](https://drive.google.com/file/d/1f_ZaOmkMVALmYmAOVjGWoKsaK-VcUN8P/view?usp=sharing)
+[Composite match card](/images/uploads/composite_card.pdf)
 
 [Junior match card](/images/uploads/jnrmatchsheet.pdf)
 
@@ -28,8 +28,8 @@ hero: /images/uploads/badminton_2.jpg
 
 (once google doc has loaded select File, Download as)
 
-[4 player match card](https://docs.google.com/spreadsheets/d/1KsXYJmY8YgrYKLoijZClxKNpOi_TdDX9Kedc5dqN8MI/edit?usp=sharing)
+[4 player match card](/images/uploads/rps-4-player-match-card-version-110826.xlsx)
 
-[6 player match card](https://docs.google.com/spreadsheets/d/1GQ4AHcUGXGfDfAI7aK6OcM5nwXYYU1yG_I8GOb9cbXk/edit?usp=sharing)
+[6 player match card](/images/uploads/rps-6-player-card-version-111007.xlsx)
 
-[Composite match card](https://docs.google.com/spreadsheets/d/1x6c8WwdF2AT-67sw5t3rij6asaEGOatmX0vp_vhZSEU/edit#gid=1204780575)
+[Composite match card](/images/uploads/rps-composit-match-card-version-110826.xlsx)
