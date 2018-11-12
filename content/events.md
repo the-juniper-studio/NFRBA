@@ -1,6 +1,6 @@
 ---
 title: Events
-hero: /images/uploads/frame-harirak-602126-unsplash.jpg
+hero: /images/uploads/badders.jpg
 ---
 ## Upcoming Events
 
