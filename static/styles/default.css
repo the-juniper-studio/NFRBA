@@ -129,6 +129,8 @@ table {
   width:100%;
   margin-bottom:3em;
   border-collapse:collapse;
+  display:block;
+  overflow:scroll;
 }
 thead {
   font-weight:300;
