@@ -29,5 +29,26 @@ Fixtures and Results
 | Minster        | 10/12   | 22/11   | 17/1   | 25/2   | 14/3   |12/11  | |
 
 
+## Composite 1
+
+|                  | The Kings I  | Apollo (Ashford)  | Westgate | Invicta-Pilgrims  | Hartsdown Park |The Kings II |
+| ---------------- | --: | --: | --: | --: | --: | --:|
+| The Kings I      |    | 9/12   | 11/11  | 27/1   | 17/2   |**9=0** |
+| Apollo (Ashford) | **1=8**   |    | 17/3   | 10/3   | 7/4   |3/2 |
+| Westgate         | 4/2   | 25/3   |    | 7/2   | 28/3   | 28/1 |
+| Invicta-Pilgrims | **0=9**   | 18/2   | 10/12   |    | 4/3   | 8/4|
+| Hartsdown Park   | 25/3   | 19/11   | 21/1   | 5/11   |    |**1=8** |
+| The Kings II     | **2=7**   | 25/11   | **7=2**  | 18/11  | 5/5   | |
 
 
+## Composite 2
+
+|                   | Kings Road I  | Racqueteers  | Christ Church Uni | Apollo | Faversham | Kings Road II | Rovers |
+| ----------------- | --: | --: | --: | --: | --: | --:| --:|
+| Kings Road I      |    | **6=3**   | =  | 21/3   | 4/4   |**9=0** |14/3 |
+| Racqueteers       | 1/3   |    | =  | **9=0**   | 18/1   |**9=0** | 25/1 |
+| Christ Church Uni | =   | =   |    | 12/2   | =   |= |11/2 |
+| Apollo            | 17/1   | 31/1   |11/4   |   | **5=4**   |22/11 | 28/3|
+| Faversham         | 20/11   | 26/3   | 19/2   | 5/3   |    | **5=4**|15/1 |
+| Kings Road II     | **1=8**   | 11/4   | =   | 28/2  | 6/12  | |**2=7** |
+| Rovers            | 23/11   | 30/11   | 22/2  | 7/12   | 12/4  |1/2 | |
