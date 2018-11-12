@@ -1,6 +1,6 @@
 ---
 title: Club Info
-hero: /images/uploads/shuttlecock-2379720_1920.jpg
+hero: /images/uploads/badmintonracket.jpg
 ---
 **Ajax**\
 Club nights: Mondays 7.00 - 10.00\
