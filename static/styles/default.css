@@ -129,7 +129,6 @@ table {
   width:100%;
   margin-bottom:3em;
   border-collapse:collapse;
-  table-layout:fixed;
 }
 thead {
   font-weight:300;
