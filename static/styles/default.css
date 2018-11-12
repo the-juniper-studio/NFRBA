@@ -143,6 +143,9 @@ table td {
   padding: .5rem;
   border-bottom:solid 1px #ededed;
 }
+table td:empty {
+  background-color:#f8f9fa;
+}
 
 
 /* Headings */
