@@ -87,12 +87,7 @@ Courts: 3-4
 Club nights: Wednesdays 7.15 - 9.30
 Matches: Kings School Sports Centre, St Stephen's Rd, Canterbury CT2 7HU ; Sundays 5.00-7.30\
 Courts: 3\
-Notes:\
-Mondays -  Badminton 13.15 - 14.15 Courses ; Badminton for All 18.15 - 19.30\
-Tuesdays - Canterbury Para Badminton 20.00 - 21.30\
-Wednesdays - term time - No Strings 12.30 - 13.30\
-Fridays - Term time 50+ 11.00 - 12.00 ;
-
+\
 **Westgate**\
 Club nights: Monday and Thursday 7.30 - 10.00\
 Matches:	King Ethelberts School, Canterbury Rd, Birchington CT7 9BL ; Monday and Thursday 7.30 - 10.00\
