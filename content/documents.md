@@ -1,6 +1,6 @@
 ---
 title: Documents
-hero: /images/uploads/badmintonracket.jpg
+hero: /images/uploads/badminton2.jpg
 ---
 ## General
 
