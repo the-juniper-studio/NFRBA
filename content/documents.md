@@ -6,6 +6,9 @@ hero: /images/uploads/badminton_2.jpg
 
 [General rules](https://docs.google.com/document/d/1P_wMLAwqHUwoejLpIUeyCnKEhmCebcnYcbi6PGqTrSY/edit)
 
+[Junior rules]
+(images/uploads/junior_rules.jpg)
+
 [4 player and composite rules](https://docs.google.com/document/d/1A1w8PfIezoQjoJttcDfo6vnJbSSy_v_JT2g0QJiYjQM/edit)
 
 [Captain notes](https://docs.google.com/document/d/1SocFWDxyqVwBKSN2pYRlecyolxUi39cZLjZn0EsTgdQ/edit#)
