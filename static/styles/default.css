@@ -1,9 +1,6 @@
 * + * {
   margin-top: 1.5em;
 }
-div:empty {
-  display:none;
-}
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -253,6 +250,9 @@ form {
   color:#4e616c;
   max-width:30em;
   margin:0 auto;
+}
+form div:empty {
+  display:none;
 }
 
 label {
