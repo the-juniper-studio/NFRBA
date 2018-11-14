@@ -1,7 +1,7 @@
 ---
-title: "Inter Regional Tournament 2016"
-date: 2018-08-07T22:52:28+01:00
-hero: /images/uploads/badminton_2.jpg
+title: Inter Regional Tournament 2016
+date: 2018-08-07T21:52:28.000Z
+hero: /images/uploads/badminton2.jpg
 ---
 
 ## Results

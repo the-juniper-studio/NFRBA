@@ -1,6 +1,6 @@
 ---
 title: Events
-hero: /images/uploads/badminton_3.jpg
+hero: /images/uploads/badders.jpg
 ---
 ## Upcoming Events
 

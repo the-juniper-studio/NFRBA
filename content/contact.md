@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-hero: /images/uploads/badders.jpg
+hero: /images/uploads/badminton_2.jpg
 ---
  
 <form name="contact" method="POST" netlify>
