@@ -3,7 +3,7 @@ layout: default
 title: Contact
 hero: /images/uploads/badminton_2.jpg
 ---
-## If you are interested in joining one of the clubs, have questions about our league or any other comments or queries we'd love to hear from you. Please complete the below form and we'll get back to you soon.
+If you are interested in joining one of the clubs, have questions about our league or any other comments or queries we'd love to hear from you. Please complete the below form and we'll get back to you soon.
 
 <form name="contact" method="POST" netlify>
   <div class="form-input">
