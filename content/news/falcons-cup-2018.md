@@ -10,11 +10,10 @@ Full results have been issued to the clubs involved. This is a summary showing t
 
 ## Group 1
 
-|             | Ajax | Herne Bay A | xxxx | For | Against |     | Ratio F/A |     |
+|             | Ajax | Herne Bay A | For | Against |     | Ratio F/A |     |
 | ----------- | ---- | ----------- | ---- | --- | ------- | --- | --------- | --- |
-| Ajax        | x    | 241         | 0    | 241 | 368     |     | 0.655     | 2   |
-| Herne Bay A | 368  | x           | 0    | 368 | 241     |     | 1.527     | 1   |
-| xxxx        | 0    | 0           | x    | 0   | 0       |     |           |     |
+| Ajax        | x    | 241         | 241 | 368     |     | 0.655     | 2   |
+| Herne Bay A | 368  | x           | 368 | 241     |     | 1.527     | 1   |
 
 ## Group 2
 
