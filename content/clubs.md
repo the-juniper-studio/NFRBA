@@ -19,7 +19,7 @@ Courts: 1
 Club nights: Thursdays (7.30 - 10.30) all year at St Anselm's\
 Matches: St Anselm's School, Old Dover Rd, Canterbury CT1 3EN ; Thursdays (2-4) 7.30 - 10.30\
 Courts: 2-4\
-Notes: [www.apollobadmintoncanterbury.co.uk](www.apollobadmintoncanterbury.co.uk)
+Notes: [apollobadmintoncanterbury.co.uk](http://www.apollobadmintoncanterbury.co.uk)
 
 **Canterbury Christ Church University**\
 Club nights: Students only\
@@ -47,13 +47,13 @@ Notes: We have a junior section for players up to the season of their 18th birth
 Club nights: 10.00 - 12.00 on Saturdays ages 10 to 17 years. Visitors by arrangement only\
 Matches: Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL ; Sat 9.00-12.00\
 Courts: 4\
-Notes: [www.facebook.com/hbjuniorbadminton](www.facebook.com/hbjuniorbadminton) Club season September to April. Two level 2 coaches.
+Notes: [facebook.com/hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton) Club season September to April. Two level 2 coaches.
 
 **Invicta-Pilgrims**\
 Club nights: Thursdays 7.00-9.00 Visitors £6 adults; £3 children\
 Matches: Spires Academy, Bredlands Lane, Westbere CT2 0HD ; Mon 7.30 - 9.30\
 Courts: 3\
-Notes: Our facebook page [www.facebook.com/invictapilgrimsbc](www.facebook.com/invictapilgrimsbc) provides regular information and updates.
+Notes: Our facebook page [facebook.com/invictapilgrimsbc](http://www.facebook.com/invictapilgrimsbc) provides regular information and updates.
 
 **Kings Road**\
 Club nights: Thursdays 7.00 - 10.00 Sept to April\
@@ -71,7 +71,7 @@ Notes: Limit of 3 visitor sessions. New players of all standards welcome except 
 Club nights: Wednesdays 7.30 - 9.30 check first - Simon Langton Boys School\
 Matches: Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS ; Fridays 7.30 - 9.30\
 Courts: 2+\
-Notes: <http://www.racqueteersbadminton.co.uk/> also facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)
+Notes: [racqueteersbadminton.co.uk] (http://www.racqueteersbadminton.co.uk) also facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)
 
 **Rovers**\
 Club nights: Tuesdays 7.30 - 10.00\
@@ -97,4 +97,4 @@ Notes: New members welcome - including beginners and juniors
 Club nights: Fridays 7.00 - 10.00\
 Matches: Folkestone Sports Centre, Radnor Park Avenue CT19 5HX ; Friday 7.00 - 10.00\
 Courts: 2\
-Notes: [www.wyndgatebadminton.co.uk](www.wyndgatebadminton.co.uk) Ability to play needed. Informal coaching available. Play all year.
+Notes: [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk) Ability to play needed. Informal coaching available. Play all year.
