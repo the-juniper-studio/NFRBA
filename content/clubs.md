@@ -13,7 +13,7 @@ Mondays 7.00 - 10.00\
 
 ## Apollo (Ashford)
 
-**Website: **[www.apollobc.wixsite.com/play](http://apollobc.wixsite.com/play)\
+**Website:** [www.apollobc.wixsite.com/play](http://apollobc.wixsite.com/play)\
 **Club nights:** Sundays if no match 7.00 -\
 **Matches:** Mersham Village Hall, The Forstal, Mersham TN25 6NU ;6.00 - (Sundays)\
 **Courts:** 1
@@ -39,7 +39,7 @@ Mondays 7.00 - 10.00\
 
 ## Faversham
 
-**Website: **[www.favershambadminton.club](http://www.favershambadminton.club)\
+**Website: ** [www.favershambadminton.club](http://www.favershambadminton.club)\
 **Club nights:** Tuesdays 7.00 - 10.00 Sept to April\
 **Matches:** Queen Elizabeth School Sports Hall, Abbey Place, Faversham ME13 7BQ ;  (2+) various days - often Tues 7.30-10.00\
 **Courts:** 2+\
@@ -54,7 +54,7 @@ Mondays 7.00 - 10.00\
 
 ## Herne Bay Juniors
 
-**Website: **[www.facebook.com/hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton)\
+**Website:** Facebook [@hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton)\
 **Club nights:** 10.00 - 12.00 on Saturdays ages 10 to 17 years. Visitors by arrangement only\
 **Matches:** Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL ; Sat 9.00-12.00\
 **Courts:** 4\
@@ -62,7 +62,7 @@ Mondays 7.00 - 10.00\
 
 ## Invicta-Pilgrims
 
-**Website: **[www.facebook.com/invictapilgrimsbc](http://www.facebook.com/invictapilgrimsbc)\
+**Website:** Facebook [@invictapilgrimsbc](http://www.facebook.com/invictapilgrimsbc)\
 **Club nights:** Thursdays 7.00-9.00 Visitors £6 adults; £3 children\
 **Matches:** Spires Academy, Bredlands Lane, Westbere CT2 0HD ; Mon 7.30 - 9.30\
 **Courts:** 3
@@ -83,7 +83,7 @@ Mondays 7.00 - 10.00\
 
 ## Racqueteers
 
-**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also facebook [www.facebook.com/racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)
+**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)
 **Club nights:** Wednesdays 7.30 - 9.30 check first - Simon Langton Boys School\
 **Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS ; Fridays 7.30 - 9.30\
 **Courts:** 2+\*\*\*\*
