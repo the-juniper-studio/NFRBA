@@ -2,99 +2,120 @@
 title: Club Info
 hero: /images/uploads/badminton3.jpg
 ---
-**Ajax**\
-Club nights: Mondays 7.00 - 10.00\
-Matches: Sir Roger Manwood's School, Manwood Road, Sandwich, CT13 9JX\
+## Ajax
+
+**Club nights:** Mondays 7.00 - 10.00\
+**Matches:** Sir Roger Manwood's School, Manwood Road, Sandwich, CT13 9JX\
 Please use rear entrance in St Georges Road. CT13 9LE. It's a boarding school. Do not walk through the school at night.\
-Courts: 2\
+**Courts:** 2\
 Mondays 7.00 - 10.00\
-Notes: New members, juniors, visitors, beginners welcomed
+**Notes:** New members, juniors, visitors, beginners welcomed
 
-**Apollo (Ashford)**\
-Club nights: Sundays if no match 7.00 -\
-Matches: Mersham Village Hall, The Forstal, Mersham TN25 6NU ;6.00 - (Sundays)\
-Courts: 1
+## Apollo (Ashford)
 
-**Apollo (Canterbury)**
-Club nights: Thursdays (7.30 - 10.30) all year at St Anselm's\
-Matches: St Anselm's School, Old Dover Rd, Canterbury CT1 3EN ; Thursdays (2-4) 7.30 - 10.30\
-Courts: 2-4\
-Notes: [apollobadmintoncanterbury.co.uk](http://www.apollobadmintoncanterbury.co.uk)
+**Website:** [www.apollobc.wixsite.com/play](http://apollobc.wixsite.com/play)\
+**Club nights:** Sundays if no match 7.00 -\
+**Matches:** Mersham Village Hall, The Forstal, Mersham TN25 6NU; 6.00 - (Sundays)\
+**Courts:** 1
 
-**Canterbury Christ Church University**\
-Club nights: Students only\
-Matches: CCC Sports Centre, Pilgrims Way, Canterbury CT1 1XS ; Mondays or Thursdays 7.00 - 9.30 To be confirmed\
-Courts: 2	\
-	
-**Canterbury Juniors**\
-Club nights: Saturdays 11.00 - 12.30\
-Matches: Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ ; Saturdays 11.00 - 12.30\
-Courts: 4
+## Apollo (Canterbury)
 
-**Faversham**\
-Club nights: Tuesdays 7.00 - 10.00 Sept to April\
-Matches: Queen Elizabeth School Sports Hall, Abbey Place, Faversham ME13 7BQ ;  (2+) various days - often Tues 7.30-10.00\
-Courts: 2+\
-Notes: New players of all standards are welcome but we do not have the court time for complete beginners
+**Website:** [www.apollobadmintoncanterbury.co.uk](http://www.apollobadmintoncanterbury.co.uk)\
+**Club nights:** Thursdays (7.30 - 10.30) all year at St Anselm's\
+**Matches:** St Anselm's School, Old Dover Rd, Canterbury CT1 3EN; Thursdays (2-4) 7.30 - 10.30\
+**Courts:** 2-4
 
-**Hartsdown Park**\
-Club nights: Ramsgate Sports Centre CT11 9TT Mondays 7.30 - 10.30 - pay & play £4.50 per session\
-Matches: Hartsdown Leisure Centre, Hartsdown Road, Margate  CT9 5QX ; Mondays 7.30 - 10.30\
-Courts: 2\
-Notes: We have a junior section for players up to the season of their 18th birthday: HARTSDOWN Sports Centre, Saturdays, 2pm – 4pm.  Free first session. £3 per session thereafter.
+## Canterbury Christ Church University
 
-**Herne Bay Juniors**\
-Club nights: 10.00 - 12.00 on Saturdays ages 10 to 17 years. Visitors by arrangement only\
-Matches: Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL ; Sat 9.00-12.00\
-Courts: 4\
-Notes: [facebook.com/hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton) Club season September to April. Two level 2 coaches.
+**Club nights:** Students only\
+**Matches:** CCC Sports Centre, Pilgrims Way, Canterbury CT1 1XS; Mondays or Thursdays 7.00 - 9.30 To be confirmed\
+**Courts:** 2		
 
-**Invicta-Pilgrims**\
-Club nights: Thursdays 7.00-9.00 Visitors £6 adults; £3 children\
-Matches: Spires Academy, Bredlands Lane, Westbere CT2 0HD ; Mon 7.30 - 9.30\
-Courts: 3\
-Notes: Our facebook page [facebook.com/invictapilgrimsbc](http://www.facebook.com/invictapilgrimsbc) provides regular information and updates.
+## Canterbury Juniors
 
-**Kings Road**\
-Club nights: Thursdays 7.00 - 10.00 Sept to April\
-Matches: Herne Bay High School, Bullockstone Rd CT6 7NS ; Thursdays 7.05 - 10.00 or 10.30\
-Courts: 2+\
-Notes: New members welcome but not complete beginners
+**Club nights:** Saturdays 11.00 - 12.30\
+**Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ; Saturdays 11.00 - 12.30\
+**Courts**: 4
 
-**Minster**\
-Club nights: Mondays & Thursdays (7.00 - 10.00);\
-Matches: Village Hall, High Street, Minster CT12 4BU ; Monday or Thursday 7.00 -\
-Courts: 1\
-Notes: Limit of 3 visitor sessions. New players of all standards welcome except for complete beginners. No qualified coaches but very experienced players are around to offer advice. September to May only.
+## Faversham
 
-**Racqueteers**\
-Club nights: Wednesdays 7.30 - 9.30 check first - Simon Langton Boys School\
-Matches: Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS ; Fridays 7.30 - 9.30\
-Courts: 2+\
-Notes: [racqueteersbadminton.co.uk] (http://www.racqueteersbadminton.co.uk) also facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)
+**Website:** [www.favershambadminton.club](http://www.favershambadminton.club)\
+**Club nights:** Tuesdays 7.00 - 10.00 Sept to April\
+**Matches:** Queen Elizabeth School Sports Hall, Abbey Place, Faversham ME13 7BQ;  Various days - often Tues 7.30-10.00\
+**Courts:** 2+\
+**Notes:** New players of all standards are welcome but we do not have the court time for complete beginners
 
-**Rovers**\
-Club nights: Tuesdays 7.30 - 10.00\
-Matches: Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00\
-Courts: 3
+## Hartsdown Park
 
-**Scorpions**\
-Club nights: Thursday 7.30 - 9.30
-Matches: Sandwich Technology College, Deal Road, Sandwich CT13 0FA ; Thursday 7.30 - 9.30 or 10.00\
-Courts: 3-4
+**Club nights:** Ramsgate Sports Centre CT11 9TT Mondays 7.30 - 10.30 - pay & play £4.50 per session\
+**Matches:** Hartsdown Leisure Centre, Hartsdown Road, Margate  CT9 5QX; Mondays 7.30 - 10.30\
+**Courts:** 2\
+**Notes:** We have a junior section for players up to the season of their 18th birthday: HARTSDOWN Sports Centre, Saturdays, 2pm – 4pm.  Free first session. £3 per session thereafter.
 
-**The Kings**\
-Club nights: Wednesdays 7.15 - 9.30
-Matches: Kings School Sports Centre, St Stephen's Rd, Canterbury CT2 7HU ; Sundays 5.00-7.30\
-Courts: 3\
-\
-**Westgate**\
-Club nights: Monday and Thursday 7.30 - 10.00\
-Matches:	King Ethelberts School, Canterbury Rd, Birchington CT7 9BL ; Monday and Thursday 7.30 - 10.00\
-Notes: New members welcome - including beginners and juniors
+## Herne Bay Juniors
 
-**Wyndgate**\
-Club nights: Fridays 7.00 - 10.00\
-Matches: Folkestone Sports Centre, Radnor Park Avenue CT19 5HX ; Friday 7.00 - 10.00\
-Courts: 2\
-Notes: [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk) Ability to play needed. Informal coaching available. Play all year.
+**Website:** Facebook [@hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton)\
+**Club nights:** 10.00 - 12.00 on Saturdays ages 10 to 17 years. Visitors by arrangement only\
+**Matches:** Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL; Sat 9.00-12.00\
+**Courts:** 4\
+**Notes:** Club season September to April. Two level 2 coaches.
+
+## Invicta-Pilgrims
+
+**Website:** Facebook [@invictapilgrimsbc](http://www.facebook.com/invictapilgrimsbc)\
+**Club nights:** Thursdays 7.00-9.00 Visitors £6 adults; £3 children\
+**Matches:** Spires Academy, Bredlands Lane, Westbere CT2 0HD; Mon 7.30 - 9.30\
+**Courts:** 3
+
+## Kings Road
+
+**Club nights:** Thursdays 7.00 - 10.00 Sept to April\
+**Matches:** Herne Bay High School, Bullockstone Rd CT6 7NS; Thursdays 7.05 - 10.00 or 10.30\
+**Courts:** 2+\
+**Notes:** New members welcome but not complete beginners
+
+## Minster
+
+**Club nights:** Mondays & Thursdays (7.00 - 10.00);\
+**Matches:** Village Hall, High Street, Minster CT12 4BU; Monday or Thursday 7.00 -\
+**Courts:** 1\
+**Notes:** Limit of 3 visitor sessions. New players of all standards welcome except for complete beginners. No qualified coaches but very experienced players are around to offer advice. September to May only.
+
+## Racqueteers
+
+**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)\
+**Club nights:** Wednesdays 7.30 - 9.30 check first - Simon Langton Boys School\
+**Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.30 - 9.30\
+**Courts:** 2+
+
+## Rovers
+
+**Club nights:** Tuesdays 7.30 - 10.00\
+**Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00\
+**Courts:** 3
+
+## Scorpions
+
+**Club nights:** Thursday 7.30 - 9.30\
+**Matches:** Sandwich Technology College, Deal Road, Sandwich CT13 0FA; Thursday 7.30 - 9.30 or 10.00\
+**Courts:** 3-4
+
+## The Kings
+
+**Club nights:** Wednesdays 7.15 - 9.30\
+**Matches:** Kings School Sports Centre, St Stephen's Rd, Canterbury CT2 7HU; Sundays 5.00-7.30\
+**Courts:** 3
+
+## Westgate
+
+**Club nights:** Monday and Thursday 7.30 - 10.00\
+**Matches:** King Ethelberts School, Canterbury Rd, Birchington CT7 9BL; Monday and Thursday 7.30 - 10.00\
+**Notes:** New members welcome - including beginners and juniors
+
+## Wyndgate
+
+**Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
+**Club nights:** Fridays 7.00 - 10.00  \
+**Matches:** Folkestone Sports Centre, Radnor Park Avenue CT19 5HX; Friday 7.00 - 10.00\
+**Courts:** 2\
+**Notes:** Ability to play needed. Informal coaching available. Play all year.
