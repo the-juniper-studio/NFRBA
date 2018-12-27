@@ -83,7 +83,7 @@ Mondays 7.00 - 10.00\
 
 ## Racqueteers
 
-**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)
+**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)\
 **Club nights:** Wednesdays 7.30 - 9.30 check first - Simon Langton Boys School\
 **Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.30 - 9.30\
 **Courts:** 2+
@@ -96,13 +96,13 @@ Mondays 7.00 - 10.00\
 
 ## Scorpions
 
-**Club nights:** Thursday 7.30 - 9.30
+**Club nights:** Thursday 7.30 - 9.30\
 **Matches:** Sandwich Technology College, Deal Road, Sandwich CT13 0FA; Thursday 7.30 - 9.30 or 10.00\
 **Courts:** 3-4
 
 ## The Kings
 
-**Club nights:** Wednesdays 7.15 - 9.30
+**Club nights:** Wednesdays 7.15 - 9.30\
 **Matches:** Kings School Sports Centre, St Stephen's Rd, Canterbury CT2 7HU; Sundays 5.00-7.30\
 **Courts:** 3
 
