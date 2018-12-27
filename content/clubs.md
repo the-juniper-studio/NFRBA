@@ -114,7 +114,7 @@ Mondays 7.00 - 10.00\
 
 ## Wyndgate
 
-**Website: **[www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
+**Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
 **Club nights:** Fridays 7.00 - 10.00  \
 **Matches:** Folkestone Sports Centre, Radnor Park Avenue CT19 5HX ; Friday 7.00 - 10.00\
 **Courts:** 2\
