@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Junior Tournament - Feb 3rd 2019
+title: Junior Tournament - 3rd Feb 2019
 date: 2019-02-11T21:00:42.917Z
 hero: /images/uploads/badminton3.jpg
 ---
