@@ -88,6 +88,14 @@ Mondays 7.00 - 10.00\
 **Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.30 - 9.30\
 **Courts:** 2+
 
+## Racqueteers Junior Club
+
+**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)\
+Meets at Simon Langton Boys School on Saturdays at 2.30 pm to 4.30 pm.
+Coaching offered and regular matches and tournaments.
+
+
+
 ## Rovers
 
 **Club nights:** Tuesdays 7.30 - 10.00\
