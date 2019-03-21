@@ -75,11 +75,11 @@ hero: /images/uploads/badminton3.jpg
 
 |                   | Ajax      | Kings Road II | Christ Church Uni | Apollo II | Rovers II |
 | ----------------- | --------- | ------------- | ----------------- | --------- | --------- |
-| Ajax              |           | **9 - 0**     | \-                | 7/1       | 28/1      |
-| Kings Road II     | 7/2       |               | \-                | 8/11      | 7/3       |
-| Christ Church Uni | \-        | \-            |                   | 14/11     | 26/1      |
-| Apollo II         | 17/1      | 21/3          | 14/3              |           | 7/2       |
-| Rovers II         | **4 - 5** | 16/11         | 11/1              | **6 - 2** |           |
+| Ajax              |           | **9 - 0**     | \-                | **8 - 1** | **8 - 1** |
+| Kings Road II     | **0 - 9** |               | 14/2              | **4 - 5** | 7/3       |
+| Christ Church Uni | \-        | \-            |                   | **3 - 6** | 26/1      |
+| Apollo II         | **0 - 9** | 21/3          | 14/3              |           | **3 - 6** |
+| Rovers II         | **4 - 5** | **7 - 2**     | **9 C 0**         | **6 - 2** |           |
 
 ## Ladies4
 
