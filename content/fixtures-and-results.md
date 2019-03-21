@@ -6,13 +6,13 @@ hero: /images/uploads/badminton3.jpg
 
 ## Mixed Premier
 
-|                  | The Kings  | Kings Road | Westgate  | Faversham | Apollo (Ashford) |
-| ---------------- | ---------- | ---------- | --------- | --------- | ---------------- |
-| The Kings        |            | 19/5       | **6 - 3** | **8 - 1** | 28/4             |
-| Kings Road       | 25/4       |            | **3 - 6** | 28/3      | 11/4             |
-| Westgate         | **0 - 9**  | **4 - 5**  |           | **7 - 2** | **2 - 7**        |
-| Faversham        | **0 - 9**  | **5 - 4**  | 12/3      |           | **1 - 8**        |
-| Apollo (Ashford) | 3/3        | **9 C 0**  | 12/5      | 24/3      |                  |
+|                  | The Kings | Kings Road | Westgate  | Faversham | Apollo (Ashford) |
+| ---------------- | --------- | ---------- | --------- | --------- | ---------------- |
+| The Kings        |           | 19/5       | **6 - 3** | **8 - 1** | 28/4             |
+| Kings Road       | 25/4      |            | **3 - 6** | 28/3      | 11/4             |
+| Westgate         | **0 - 9** | **4 - 5**  |           | **7 - 2** | **2 - 7**        |
+| Faversham        | **0 - 9** | **5 - 4**  | 12/3      |           | **1 - 8**        |
+| Apollo (Ashford) | 3/3       | **9 C 0**  | 12/5      | 24/3      |                  |
 
 ## Mixed 1
 
@@ -30,12 +30,12 @@ hero: /images/uploads/badminton3.jpg
 
 |                  | The Kings I | Apollo (Ashford) | Westgate  | Invicta-Pilgrims | Hartsdown Park | The Kings II |
 | ---------------- | ----------- | ---------------- | --------- | ---------------- | -------------- | ------------ |
-| The Kings I      |             | 9/12             | 11/11     | 27/1             | 17/2           | **9 - 0**    |
-| Apollo (Ashford) | **1 - 8**   |                  | 17/3      | 10/3             | 7/4            | 3/2          |
-| Westgate         | 4/2         | 25/3             |           | 7/2              | 28/3           | 28/1         |
-| Invicta-Pilgrims | **0 - 9**   | 18/2             | 10/12     |                  | 4/3            | 8/4          |
-| Hartsdown Park   | 25/3        | 19/11            | 21/1      | 5/11             |                | **1 - 8**    |
-| The Kings II     | **2 - 7**   | 25/11            | **7 - 2** | 18/11            | 5/5            |              |
+| The Kings I      |             | **5 - 4**        | **7 - 2** | **9 C 0**        | **9 - 0**      | **9 - 0**    |
+| Apollo (Ashford) | **1 - 8**   |                  | 17/3      | 10/3             | 7/4            | **5 - 4**    |
+| Westgate         | **1 - 8**   | 25/3             |           | 11/4             | 28/3           | **7 - 2**    |
+| Invicta-Pilgrims | **0 - 9**   | **4 - 5**        | **3 - 6** |                  | 4/3            | 8/4          |
+| Hartsdown Park   | 25/3        | **0 - 9**        | **2 - 7** | **8 - 1**        |                | **1 - 8**    |
+| The Kings II     | **2 - 7**   | **1 - 8**        | **7 - 2** | **9 C 0**        | 5/5            |              |
 
 ## Composite 2
 
