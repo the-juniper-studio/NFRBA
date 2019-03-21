@@ -93,11 +93,10 @@ hero: /images/uploads/badminton3.jpg
 | Apollo         | 7/3        | **0 - 6**  | **1/5**     | 18/4        | **2 - 4**      |           | **0 - 6** |
 | The Kings      | **4 - 2**  | 12/5       | **5/1**     | 14/4        | 24/3           | 17/3      |           |
 
-
 ## Juniors 1
 
-|    | Herne Bay A | Racqueteers A | Ajax  |
-| ---------- | --------- | --------- | ---------------- |
-| The Kings        |           | 19/5       | **6 - 3** | 
-| Kings Road       | 25/4      |            | **3 - 6** | 28/3      | 
-| Westgate         | **0 - 9** | **4 - 5**  |           | 
+|            | Herne Bay A | Racqueteers A | Ajax |
+| ---------- | ----------- | ------------- | ---- |
+| The Kings  |             | 16/3          |      |
+| Kings Road | 24/4        |               | **** |
+| Westgate   | ****        | ****          |      |
