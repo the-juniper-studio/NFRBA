@@ -51,14 +51,14 @@ hero: /images/uploads/badminton3.jpg
 
 ## Mens6 1
 
-|                  | The Kings I | Wyndgate | Apollo (Ashford) | Faversham I | Invicta Pilgrims | Rovers I |
-| ---------------- | ----------- | -------- | ---------------- | ----------- | ---------------- | -------- |
-| The Kings I      |             | 3/2      | 31/3             | 16/12       | 4/11             | 7/4      |
-| Wyndgate         | **2 - 7**   |          | 26/4             | 8/3         | 1/2              | 14/12    |
-| Apollo (Ashford) | 6/1         | 17/2     |                  | 20/1        | 11/11            | 27/1     |
-| Faversham I      | 26/2        | 4/12     | 6/11             |             | 29/1             | 27/11    |
-| Invicta Pilgrims | 21/1        | 26/11    | 11/2             | 18/3        |                  | 15/4     |
-| Rovers I         | 22/3        | 2/11     | 8/3              | 5/4         | **7 - 2**        |          |
+|                  | The Kings I | Wyndgate  | Apollo (Ashford) | Faversham I | Invicta Pilgrims | Rovers I  |
+| ---------------- | ----------- | --------- | ---------------- | ----------- | ---------------- | --------- |
+| The Kings I      |             | **5 - 4** | 31/3             | **8 - 1**   | 26/5             | 7/4       |
+| Wyndgate         | **2 - 7**   |           | 26/4             | 8/3         | **8 - 1**        | 10/5      |
+| Apollo (Ashford) | **1 - 8**   | 19/5      |                  | **6 - 3**   | **8 - 1**        | **7 - 2** |
+| Faversham I      | **0 - 9**   | **5 - 4** | **4 - 5**        |             | **4 - 5**        | **5 - 4** |
+| Invicta Pilgrims | **0 - 9**   | **6 - 3** | **5 - 3**        | 18/3        |                  | 15/4      |
+| Rovers I         | 22/3        | **2 - 7** | 8/3              | 5/4         | **7 - 2**        |           |
 
 ## Mens6 2
 
