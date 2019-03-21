@@ -95,8 +95,16 @@ hero: /images/uploads/badminton3.jpg
 
 ## Juniors 1
 
-|            | Herne Bay A | Racqueteers A | Ajax |
-| ---------- | ----------- | ------------- | ---- |
-| The Kings  |             | 16/3          |      |
-| Kings Road | 24/4        |               | **** |
-| Westgate   | ****        | ****          |      |
+|            | Herne Bay A | Racqueteers A | Ajax     |
+| ---------- | ----------- | ------------- | -------- |
+| The Kings  |             | 16/3          |          |
+| Kings Road | 24/4        |               | \*\*\*\* |
+| Westgate   | \*\*\*\*    | \*\*\*\*      |          |
+
+## Juniors 2
+
+|             | Falcons   | Herne Bay B | Canterbury |
+| ----------- | --------- | ----------- | ---------- |
+| Falcons     |           | **12 - 0**  | 12/2       |
+| Herne Bay B | 9/3       |             | **8 - 4**  |
+| Canterbury  | **9 - 3** | 9/3         |            |
