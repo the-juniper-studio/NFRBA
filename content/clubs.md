@@ -98,6 +98,7 @@ Coaching offered and regular matches and tournaments.
 
 ## Rovers
 
+**Website:** [www.roversbc.org](http://www.roversbc.org)\
 **Club nights:** Tuesdays 7.30 - 10.00\
 **Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00\
 **Courts:** 3
