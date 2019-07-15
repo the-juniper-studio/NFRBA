@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2018/19 season winners
-date: 2019-07-12T19:40:00.000Z
+date: 2019-06-21T19:40:00.000Z
 ---
 Many thanks to all the teams who entered this year, and congratulations to our divisional winners:
 
