@@ -8,7 +8,7 @@ We can’t put it off any longer - we need to start work on the league for next 
 
 The only rule change at the AGM was that awarding an extra point to each team which was fielded at full strength. An updated set of rules will be issued later and will be on the website.
 
-There was no change at the AGM from the same timetable as last year – that is to aim to issue the new division structure around the time of the late summer Bank Holiday – 26th August. Working back from that we need to know what teams you intend to enter by the middle of the month – 14th August – so please respond by then. You can either edit this form and return it by email or print and use snail mail.
+There was no change at the AGM from the same timetable as last year – that is to aim to issue the new division structure around the time of the late summer Bank Holiday – 26th August. Working back from that we need to know what teams you intend to enter by the middle of the month – 14th August – so please respond by then. You can either edit [this form](https://www.nfrba.co.uk/images/uploads/rps-composit-match-card-version-110826.xlsx) and return it by email or print and use snail mail.
 
 Team fees have been increased - £8.50 for each senior team, £4.50 for juniors. If you reply online then please don’t forget to send the fees separately. You can save the postage by making the payment directly to our bank account (please say if you are doing this and quote your club name as the reference) - ask me for details.
 
