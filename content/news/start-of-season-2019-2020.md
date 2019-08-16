@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Start of season 2019/2020
-date: 2019-07-13T12:32:55.679Z
+date: 2019-07-20T12:32:55.679Z
 ---
 Hi folks,
 We can’t put it off any longer - we need to start work on the league for next season.
