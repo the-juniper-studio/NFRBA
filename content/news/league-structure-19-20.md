@@ -4,7 +4,7 @@ title: League Structure 19/20
 date: 2019-09-09T17:45:52.346Z
 hero: /images/uploads/badders.jpg
 ---
-The league structure for the season 2019/20 is as follows:
+The league structure for the season 2019/ 20 is as follows:
 
 <!--more-->
 
