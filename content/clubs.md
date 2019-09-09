@@ -2,6 +2,8 @@
 title: Club Info
 hero: /images/uploads/badminton3.jpg
 ---
+To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/)
+
 ## Ajax
 
 **Club nights:** Mondays 7.00 - 10.00\
