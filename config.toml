@@ -1,2 +1,4 @@
+enableRobotsTXT = true
+canonifyURLs = true
 baseURL = "https://www.nfrba.co.uk/"
 title = "North Foreland Regional Badminton Association"
