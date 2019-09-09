@@ -6,6 +6,8 @@ hero: /images/uploads/badders.jpg
 ---
 The league structure for the season 2019/20 is as follows:
 
+<!--more-->
+
 **Mixed Premier**\
 Canterbury Kings\
 Apollo (Ashford)\
