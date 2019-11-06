@@ -5,7 +5,7 @@ hero: /images/uploads/badminton2.jpg
 ---
 Badminton is a great game for all ages and abilities including a growing para-badminton scene. We have players in the area from 5 to over 70 and the activity itself can range from an easy-going knock-about in the garden or on the beach to the extreme athleticism of the Olympic Games. The sport holds the record for the fastest hit - over 400 kph (250 mph), well ahead of golf (340 kph), squash and tennis to mention just a few.
 
-****[**HELLO**](http://www.bbc.co.uk)****
+[HELLO](www.bbc.co.uk)
 
 It’s a world-wide activity – the national game in some far-eastern countries. Here the national body is BADMINTON England (abbreviated to BE) with further bodies at county level such as Kent Badminton Ltd in our area. Kent is further divided into regions – locally North Foreland (in full the North Foreland Regional Badminton Association or NFRBA) for the north-east corner of the county and South Foreland for the south-east area. These regions overlap somewhat but it’s North Foreland which is covered by this website.
 
