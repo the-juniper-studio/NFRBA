@@ -7,6 +7,8 @@ Badminton is a great game for all ages and abilities including a growing para-ba
 
 [HELLO](www.bbc.co.uk)
 
+[test](/clubs)
+
 It’s a world-wide activity – the national game in some far-eastern countries. Here the national body is BADMINTON England (abbreviated to BE) with further bodies at county level such as Kent Badminton Ltd in our area. Kent is further divided into regions – locally North Foreland (in full the North Foreland Regional Badminton Association or NFRBA) for the north-east corner of the county and South Foreland for the south-east area. These regions overlap somewhat but it’s North Foreland which is covered by this website.
 
 If you are new to badminton in this area – perhaps never played before or just moved to East Kent - then we hope this information will help.
