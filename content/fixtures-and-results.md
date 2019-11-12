@@ -2,17 +2,6 @@
 title: Fixtures and Results
 hero: /images/uploads/badminton3.jpg
 ---
-
-
-|                  | The Kings I | Apollo (Ashford) | Westgate  | Invicta-Pilgrims | Hartsdown Park | The Kings II |
-| ---------------- | ----------- | ---------------- | --------- | ---------------- | -------------- | ------------ |
-| The Kings I      |             | **5 - 4**        | **7 - 2** | **9 C 0**        | **9 - 0**      | **9 - 0**    |
-| Apollo (Ashford) | **1 - 8**   |                  | **4 - 5** | **9 C 0**        | **8 - 1**      | **5 - 4**    |
-| Westgate         | **1 - 8**   | **7 - 2**        |           | **7 - 2**        | **9 - 0**      | **7 - 2**    |
-| Invicta-Pilgrims | **0 - 9**   | **4 - 5**        | **3 - 6** |                  | **2 - 7**      | **4 - 5**    |
-| Hartsdown Park   | **0 - 9**   | **0 - 9**        | **2 - 7** | **8 - 1**        |                | **1 - 8**    |
-| The Kings II     | **2 - 7**   | **1 - 8**        | **7 - 2** | **9 C 0**        | **9 C 0**      |              |
-
 Composite 2
 
 |                   | Kings Road I | Racqueteers | Christ Church Uni | Apollo    | Faversham | Kings Road II | Rovers    |
