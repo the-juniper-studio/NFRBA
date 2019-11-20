@@ -2,4 +2,6 @@
 title: Fixtures and Results
 hero: /images/uploads/badminton3.jpg
 ---
-Coming soon....
+![](/images/uploads/results-test.jpg)
+
+results test
