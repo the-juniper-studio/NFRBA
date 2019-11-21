@@ -4,9 +4,7 @@ hero: /images/uploads/badders.jpg
 ---
 ## Upcoming Events
 
-
 Inter-Regionals 2020 - April 19th and 26th - details to come
-
 
 ## Past Events
 
@@ -20,7 +18,7 @@ Inter-Regional Seniors, Saturday 13th April 2019
 
 Junior Tournament, Sunday 3rd February 2019, 10.00am - 5.00pm
 
-Junior Falcons Cup, Sunday 25th November 2018, 10.00am - 1.00pm
+Junior Falcons Cup, Sunday 17th November 2019 - [view results](/juniors/falcons-cup-2019/)
 
 Inter-Club Event, Saturday 14th May 2018 - [read report](/news/club-event-report-2018/)
 
