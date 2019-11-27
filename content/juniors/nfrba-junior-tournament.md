@@ -1,5 +1,5 @@
 ---
-title: NFRBA Junior Tournament
+title: Junior Tournament - 2018
 date: 2018-08-12T21:52:28.000Z
 hero: /images/uploads/badminton3.jpg
 ---
