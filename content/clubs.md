@@ -48,7 +48,8 @@ We are a friendly league playing club with players of all strengths. We welcome 
 **Courts:** 3\
 Mondays - 50+ 11.00 - 12.00 (term only), Badmintone 13.15 - 14.15 Courses ; Badminton for All 18.15 - 19.30\
 Tuesdays - Canterbury Para Badminton 20.00 - 21.30\
-Wednesday - term time - No Strings 12.15 - 13.45
+Wednesday - term time - No Strings 12.15 - 13.45\
+Wednesday - 18.15 - 19.15 - ages 11 to 16 - £5 per session (£4 for Kings members)
 
 ## Faversham
 
