@@ -70,7 +70,7 @@ Wednesday - term time - No Strings 12.15 - 13.45
 **Club nights:** Ramsgate Sports Centre CT11 9TT Mondays 7.30 - 10.30 - pay & play £7.00 per session\
 **Matches:** Hartsdown Leisure Centre, Hartsdown Road, Margate  CT9 5QX; Mondays 7.30 - 10.30\
 **Courts:** 2\
-**Notes:** We have a junior section for players up to the season of their 18th birthday: HARTSDOWN Sports Centre, Saturdays, 2pm – 4pm.  Free first session. £3 per session thereafter.
+**Notes:** We have a junior section for players up to the season of their 18th birthday: HARTSDOWN Sports Centre, Saturdays, 2pm – 4pm.  Free first session. £5 per session thereafter.
 
 ## Herne Bay Juniors
 
