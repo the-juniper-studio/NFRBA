@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Badminton at Canterbury Kings
-date: 2018-11-12T20:51:14.664Z
+date: 2019-11-28T00:00:00.000Z
 ---
 ## Badminton for members/non members at Kings
 
