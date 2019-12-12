@@ -4,11 +4,11 @@ hero: /images/uploads/badminton2.jpg
 ---
 ## General
 
-[General rules](/images/uploads/nfrba-general-rules.pdf)
+[Constitution](/images/uploads/constitution.pdf)
 
 [Junior rules](/images/uploads/junior_rules.pdf)
 
-[4 player and composite rules](/images/uploads/nfrba-4-player-and-comp-rules.pdf)
+[Senior Match Rules](/images/uploads/constitution.pdf)
 
 [Captain notes](/images/uploads/nfrba-captain-notes.pdf)
 
