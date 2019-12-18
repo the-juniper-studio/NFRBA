@@ -22,7 +22,7 @@ hero: /images/uploads/badminton2.jpg
 
 [Composite match card](/images/uploads/composite_card.pdf)
 
-[Junior match card](/images/uploads/jnrmatchsheet.pdf)
+[Junior match card](/images/uploads/jnrmatchsheet2019.pdf)
 
 ## Electronic Scorecards
 
