@@ -1,7 +1,7 @@
 ---
 title: Fixtures and Results
-hero: /images/uploads/badminton3.jpg
+hero: ''
 ---
-![](/images/uploads/results_191127.jpg)
+![](/images/uploads/results_200103.jpg)
 
 results
