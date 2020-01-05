@@ -4,7 +4,15 @@ hero: /images/uploads/badders.jpg
 ---
 ## Upcoming Events
 
-Inter-Regionals 2020 - April 19th and 26th - details to come
+Junior Tournament, Sunday 2 February 2020
+
+Inter-Regional Seniors, Sunday 19th April 2020
+
+Inter-Regional Juniors, Sunday 26th April 2020
+
+Inter-Club Event, Sunday 17th May 2020 
+
+
 
 ## Past Events
 
