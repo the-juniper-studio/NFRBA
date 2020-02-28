@@ -4,15 +4,11 @@ hero: /images/uploads/badders.jpg
 ---
 ## Upcoming Events
 
-Junior Tournament, Sunday 2 February 2020
-
 Inter-Regional Seniors, Sunday 19th April 2020
 
 Inter-Regional Juniors, Sunday 26th April 2020
 
 Inter-Club Event, Sunday 17th May 2020 
-
-
 
 ## Past Events
 
@@ -29,5 +25,3 @@ Junior Tournament, Sunday 3rd February 2019, 10.00am - 5.00pm
 Junior Falcons Cup, Sunday 17th November 2019 - [view results](/juniors/falcons-cup-2019/)
 
 Inter-Club Event, Saturday 14th May 2018 - [read report](/news/club-event-report-2018/)
-
-Junior Tournament, Sunday 4th February 2018 - [view results](http://www.nfrba.co.uk/Jnr/tourn/Results_Feb18_complete.pdf)
