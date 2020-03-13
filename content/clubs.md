@@ -32,7 +32,7 @@ We are a friendly league playing club with players of all strengths. We welcome 
 ## Canterbury Christ Church University
 
 **Club nights:** Students only\
-**Matches:** CCC Sports Centre, Pilgrims Way, Canterbury CT1 1XS; Mondays or Thursdays 7.00 - 9.30 To be confirmed\
+**Matches:** CCC Sports Centre, Pilgrims Way, Canterbury CT1 1XS; Mondays or Thursdays 7.00 - 9.30; Sundays 3.00. To be confirmed\
 **Courts:** 2		
 
 ## Canterbury Juniors
@@ -113,8 +113,7 @@ We offer regular social events including fun tournaments and have an annual exch
 ## Racqueteers Junior Club
 
 **Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)\
-Meets at Simon Langton Boys School on Saturdays at 2.30 pm to 4.30 pm.
-Coaching offered and regular matches and tournaments.
+Meets at Simon Langton Boys School on Saturdays at 2.30 pm to 4.30 pm. Coaching offered and regular matches and tournaments.
 
 ## Rovers
 
