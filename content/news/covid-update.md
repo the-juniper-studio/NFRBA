@@ -1,16 +1,12 @@
 ---
 layout: default
-title: "COVID update "
+title: COVID update  27/11/20
 date: 2020-09-10T07:36:49.813Z
 ---
-It seems from the latest news that current restrictions are likely to remain; most club activity is on hold and there is little chance of league play in the near future.
+As of the latest announcements - there are severe restrictions applicable to club night activity as our area has been placed in Tier 3. The only adult play allowed is for those in the  same household or support bubble.
 
-Some clubs have been able to hold club nights but with severe restrictions. Players must register beforehand and play on the night is restricted within groups of maximum 6. This limits overall numbers and interferes with the usual flexibility of players just turning up and leaving whenever is convenient for them. There is, of course, the need for all the  safeguards for personal security (distancing, sanitisers and so on) which we know about.
+A full description of what is allowed is available from BE via this link -
 
-Clubs which are running include Faversham, Canterbury Kings and Westgate. Others are working towards it. 
-
-Our local committee meetings and AGM  will be scheduled once there is a firm basis on which we can plan the way ahead.
-
-Factors such as the restrictions on numbers could well cause financial difficulties for clubs and there are grants available to help - as circulated by Badminton England.
+http://communicatoremail.com/In/253573285/0/4WpDrnIhv1E5RSuYS4Ns90e8NDDUT9c4pYcCvk_O4xx/
 
 This information will be updated with any changes.
