@@ -1,24 +1,21 @@
 ---
 layout: default
-title: League Structure 19/20
-date: 2019-09-09T17:45:52.346Z
+title: League Structure 21/22
+date: 2021-09-20T17:45:52.346Z
 hero: /images/uploads/badders.jpg
 ---
-The league structure for the season 2019/ 20 is as follows:
+The proposed league structure for the season 2021/22 is as follows:
 
 <!--more-->
 
 **Mixed Premier**\
 Canterbury Kings\
 Apollo (Ashford)\
-Westgate\
-Faversham\
-Hartsdown Park
+Westgate I\
+Faversham
 
 **Mixed 1**\
-Kings Road\
 Racqueteers\
-Scorpions\
 Ajax\
 Apollo\
 Rovers
@@ -28,35 +25,30 @@ Canterbury Kings I\
 Wyndgate\
 Apollo (Ashford)\
 Faversham I\
-Rovers I\
-Hartsdown Park I\
-Apollo (Ashford)
+Canterbury Kings II
 
 **Mens6 2**\
+Rovers I\
+Westgate\
+Apollo\
 Invicta-Pilgrims\
-Canterbury Kings II\
-Kings Road 1\
-Apollo I\
-Ajax\
-Racqueteers\
-Rovers II
-
+Hartsdown Park\
+Folkestone\
+\
 **Mens6 3**\
 Faversham II\
-Kings Road II\
-Apollo II\
+Ajax\
+Rovers II\
 Christ Church Uni\
-Hartsdown Park II\
-Folkestone\
-Rovers III
+Racqueteers\
+Wyndgate II   (unlikely)
 
 **Ladies4**\
-Westgate I\
+Westgate\
 Canterbury Kings\
-Westgate II\
-Kings Road\
-Racqueteers\
-Hartsdown Park\
+Apollo (Ashford)\
+Faversham\
+Racqueteers  (in New Year)\
 Apollo
 
 **Composite 1**\
@@ -64,12 +56,10 @@ Canterbury Kings I\
 Westgate\
 Apollo (Ashford)\
 Canterbury Kings II\
-Kings Road I
+Faversham I
 
 **Composite 2**\
 Racqueteers\
-Rovers\
-Apollo\
-Kings Road II\
-Faversham\
+Hartsdown\
+Faversham II\
 Christ Church Uni
