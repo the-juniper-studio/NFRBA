@@ -91,6 +91,8 @@ We offer regular social events including fun tournaments and have an annual exch
 
 ## Kings Road
 
+**THIS CLUB IS NOT CURRENTLY OPERATING**
+
 **Club nights:** Thursdays 7.00 - 10.00 Sept to April\
 **Matches:** Herne Bay High School, Bullockstone Rd CT6 7NS; Thursdays 7.05 - 10.00 or 10.30\
 **Courts:** 2+\
