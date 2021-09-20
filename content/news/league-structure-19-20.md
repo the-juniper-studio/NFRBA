@@ -11,7 +11,7 @@ The proposed league structure for the season 2021/22 is as follows:
 **Mixed Premier**\
 Canterbury Kings\
 Apollo (Ashford)\
-Westgate I\
+Westgate\
 Faversham
 
 **Mixed 1**\
