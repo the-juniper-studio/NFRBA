@@ -30,8 +30,7 @@ Canterbury Kings II
 **Mens6 2**\
 Rovers I\
 Westgate\
-Apollo\
-Invicta-Pilgrims\
+Christ Church University\
 Hartsdown Park\
 Folkestone\
 \
@@ -39,7 +38,7 @@ Folkestone\
 Faversham II\
 Ajax\
 Rovers II\
-Christ Church Uni\
+Invicta Pilgrims\
 Racqueteers\
 Wyndgate II   (unlikely)
 
@@ -48,8 +47,7 @@ Westgate\
 Canterbury Kings\
 Apollo (Ashford)\
 Faversham\
-Racqueteers  (in New Year)\
-Apollo
+Racqueteers  (in New Year)
 
 **Composite 1**\
 Canterbury Kings I\
@@ -62,4 +60,7 @@ Faversham I
 Racqueteers\
 Hartsdown\
 Faversham II\
-Christ Church Uni
+Christ Church Uni\
+Apollo
+
+updated 22/9/21
