@@ -39,8 +39,7 @@ Faversham II\
 Ajax\
 Rovers II\
 Invicta Pilgrims\
-Racqueteers\
-Wyndgate II   (unlikely)
+Racqueteers
 
 **Ladies4**\
 Westgate\
@@ -63,4 +62,4 @@ Faversham II\
 Christ Church Uni\
 Apollo
 
-updated 22/9/21
+updated 27/9/21
