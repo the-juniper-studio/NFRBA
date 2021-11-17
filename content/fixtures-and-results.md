@@ -1,6 +1,6 @@
 ---
 title: JUNIOR TOURNAMENTS 2021/22
-hero: ""
+hero: /images/uploads/badminton_2.jpg
 ---
 Sunday 16th January 10.00am-3.00pm Falcons Cup
 
