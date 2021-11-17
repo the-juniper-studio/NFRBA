@@ -274,7 +274,7 @@ form {
   padding: 3em;
   color: #4e616c;
   max-width: 30em;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 form div:empty {
   display: none;
