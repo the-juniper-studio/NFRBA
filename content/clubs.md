@@ -89,20 +89,11 @@ Club season September to April. Two level 2 coaches.
 
 ## Invicta-Pilgrims
 
-**Website:** Facebook [@invictapilgrimsbc](http://www.facebook.com/invictapilgrimsbc)\
-**Club nights:** Thursdays 7.00-9.00 Visitors £6 adults; £3 children\
+**Website:** Facebook www.facebook.com/invictapilgrimsbc[](http://www.facebook.com/invictapilgrimsbc)\
+**Club nights:** Thursdays 7.150-9.15 Visitors £6 adults; £3 children\
 **Matches:** Spires Academy, Bredlands Lane, Westbere CT2 0HD; Thursdays 7.15 - 9.15\
-**Courts:**\
+**Courts: 4**\
 **Notes:** Our facebook page www.facebook.com/invictapilgrimsbc provides regular information and updates. We offer regular social events including fun tournaments and have an annual exchange with a Dutch club BECA2000.
-
-## Kings Road
-
-**THIS CLUB IS NOT CURRENTLY OPERATING**
-
-**Club nights:** Thursdays 7.00 - 10.00 Sept to April\
-**Matches:** Herne Bay High School, Bullockstone Rd CT6 7NS; Thursdays 7.05 - 10.00 or 10.30\
-**Courts:** 2+\
-**Notes:** New members welcome but not complete beginners
 
 ## Minster
 
