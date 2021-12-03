@@ -74,7 +74,7 @@ Wednesday - term time - No Strings 12.15 - 13.45
 ## Herne Bay (previously Kings Road)
 
 **This club is restarting just for social play after an extended COVID break. New players are welcome.**\
-**Club nights:** Thursday evenings \
+**Club nights:** Thursday evenings 7.00 to 9.00\
 Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
 **Courts:** 4\
 Club season September to April.
