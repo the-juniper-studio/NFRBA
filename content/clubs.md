@@ -59,7 +59,7 @@ Wednesday - term time - No Strings 12.15 - 13.45
 
 ## Folkestone
 
-**Club nights:** Mondays 8.00 to 10.00  - changing to 7.00 to 9.00 (from 10th January) - visitors and new members welcome all year \
+**Club nights:** Mondays 7.00 to 9.00 (from 10th January) - visitors and new members welcome all year \
 **Matches:** Folkestone Sports Centre, Radnor Park Avenue, Ct19 5HX ; Fridays 7.00 - 10.00\
 **Courts:** 2\
 **Notes:** We are an informal and friendly club that plays all year round.  Unfortunately, we do not offer coaching, but welcome players of any standard that can confidently participate in a doubles game.
