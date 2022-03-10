@@ -2,15 +2,23 @@
 title: Events
 hero: /images/uploads/badders.jpg
 ---
-## Upcoming Events
+## UPCOMING EVENTS
+
+Falcons Cup 20 March 2022
+
+Inter-Regional Seniors, Sunday 10th April 2022
+
+Inter-Regional Juniors, Sunday 24th April 2022
+
+Inter-Club Event, Sunday 8th May 2022
+
+## PAST Events
 
 Inter-Regional Seniors, Sunday 19th April 2020
 
 Inter-Regional Juniors, Sunday 26th April 2020
 
 Inter-Club Event, Sunday 17th May 2020 
-
-## Past Events
 
 AGM, Thursday 13th June 2019
 
