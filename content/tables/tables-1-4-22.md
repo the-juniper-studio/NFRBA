@@ -2,6 +2,7 @@
 layout: default
 title: 2021-2022 Season
 date: 2022-04-01T16:34:52.678Z
+hero: /images/uploads/badders.jpg
 ---
 
 
