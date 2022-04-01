@@ -10,7 +10,7 @@ Inter-Regional Seniors, Sunday 10th April 2022
 
 Inter-Regional Juniors, Sunday 24th April 2022
 
-Inter-Club Event, Sunday 8th May 2022
+Inter-Club Event, Saturday 7th May 2022
 
 ## PAST Events
 
