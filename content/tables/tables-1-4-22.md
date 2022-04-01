@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tables 2021/22 "
+title: 2021-2022 Season
 date: 2022-04-01T16:34:52.678Z
 ---
 
