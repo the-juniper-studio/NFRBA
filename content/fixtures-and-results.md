@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fixtures and Results 1/4/22
+hero: /images/uploads/badminton2.jpg
 ---
 
 
