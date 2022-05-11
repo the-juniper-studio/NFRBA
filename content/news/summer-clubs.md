@@ -19,7 +19,7 @@ Raqueteers – Friday 7-9.30 at Chaucer School till the end of June, then from J
 
 Faversham  - Tuesday 7-10 Queen Elizabeths School Faversham £5 or £48 for the summer season
 
-Rovers – Tuesday 7.30-9.30 £5 Canterbury College
+Rovers – Tuesday 7.30-9.30 £6 pay and play - Canterbury College
 
 Invicta Pilgrims – Thursday 7.15-9.15 at Northgate Community Centre £5 adults £2.50 juniors
 
