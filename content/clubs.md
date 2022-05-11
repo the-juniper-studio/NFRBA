@@ -73,7 +73,7 @@ Wednesday - term time - No Strings 12.15 - 13.45
 
 ## Herne Bay (previously Kings Road)
 
-**This club is restarting just for social play after an extended COVID break. New players are welcome.**\
+**This club is open just for social play after an extended COVID break. New players are welcome.**\
 **Club nights:** Thursday evenings 7.00 to 9.00\
 Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
 **Courts:** 4\
@@ -116,10 +116,10 @@ Meets at Simon Langton Boys School on Saturdays at 2.30 pm to 4.30 pm. Coaching 
 
 ## Rovers
 
-**Website:** [www.roversbc.org](http://www.roversbc.org)\
-**Club nights:** Tuesdays 7.30 - 10.00\
+**Website:** [](http://www.roversbc.org)www.roversbc.co.uk\
+**Club nights:** Tuesdays 7.30 - 9.30\
 **Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00\
-**Courts:** 3
+**Courts:** 4
 
 ## Scorpions
 
