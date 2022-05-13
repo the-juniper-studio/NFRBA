@@ -1,28 +1,34 @@
 ---
 layout: default
-title: Summer Clubs
+title: Summer Clubs 2022
 date: 2018-06-01T09:06:00.000Z
 ---
-Though the 2018 season is over there are still plenty of opportunities to play badminton with many clubs running sessions throughout the summer months. \*\*\*\*\*\* TO BE UPDATED \*\*\*\*\*\*
 
-<!--more-->
 
-Westgate – Thursdays 7.30-10 at King Ethelberts School, Birchington
+Westgate – Monday 7.30-10 at King Ethelberts School, Birchington £5 no beginners
 
-Hartsdown – Monday 7.30 Ramsgate Leisure Centre cost £4
+Ajax – Monday  7-10pm Sandwich Leisure Centre £5
 
-Apollo Canterbury – Thursday 7.30-10.30 St Anselms £5 2 courts till end of June then 4 courts from July onwards
+Raqueteers – 
 
-Ajax – club members only
+Mondays The ***RallyKats***, is just Pay & Play.
 
-Raqueteers – Friday 7-9.30 at Chaucer School till the end of June, then from July on Weds at Simon Langton Boys School cost £6 Juniors £4.50
+7.30 to 9.30. Fee at £6.00 at Northgate Centre, Military Rd Canterbury. All to book with Liz ([popey89@gmail.com](mailto:popey89@gmail.com))
 
-Faversham  - Tuesday 7-10 Queen Elizabeths School Faversham £5 or £48 for the summer season
+ Thursdays, Racqueteers Adult Members (over 13 yoa).  Any new faces pay £25.00 interim membership.... Juniors (new faces) pay fee at £15.00 plus subs at £5.00  Subs for all adults at £6.00.  Book as above
+
+ July to mid August - Junior Summers.   Dates to be confirmed.  Time 13.00 to 14.30pm on Saturdays.  Any new faces pay £10.00 fee plus subs at £5.00.
+
+ Faversham  - Tuesday 7-10 Queen Elizabeths School Faversham £6 until end of May 22
 
 Rovers – Tuesday 7.30-9.30 £6 pay and play - Canterbury College
 
-Invicta Pilgrims – Thursday 7.15-9.15 at Northgate Community Centre £5 adults £2.50 juniors
+The Kings – Club Training Night (a coached session and games) on Monday 7.45pm - 9.15pm 
 
-The Kings – Weds £6.25 for non members
+Club Night (games) on Wednesday 7.15pm - 9.30pm. 
 
-Wyndgate – Fridays till end of July then possibly 2 courts only in August
+Members: free (Platinum members), £4.20 (Gold/ silver members), £6.70 (non-members)
+
+Wyndgate – Fridays July/August 7-10pm Folkestone Leisure Centre  £5
+
+Folkestone - Mondays 7-9pm £5
