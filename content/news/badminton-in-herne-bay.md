@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Summer Badminton 2022
-date: 2022-05-13T20:19:36.919Z
+date: 2022-05-16T17:48:14.847Z
 ---
 **Westgate** – Monday 7.30-10 at King Ethelberts School, Birchington £5 no beginners
 
@@ -30,3 +30,5 @@ Members: free (Platinum members), £4.20 (Gold/ silver members), £6.70 (non-mem
 **Wyndgate** – Fridays July/August 7-10pm Folkestone Leisure Centre  £5
 
 **Folkestone** - Mondays 7-9pm £5
+
+**Apollo** -Thursdays 7.30 - 10pm at St Anselm's from 14 July £5 night
