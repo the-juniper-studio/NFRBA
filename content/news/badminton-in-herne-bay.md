@@ -32,3 +32,5 @@ Members: free (Platinum members), £4.20 (Gold/ silver members), £6.70 (non-mem
 **Folkestone** - Mondays 7-9pm £5
 
 **Apollo** -Thursdays 7.30 - 10pm at St Anselm's from 14 July £5 night
+
+**Herne Bay** - Thursday 7 - 9pm at Herne Bay High School £5 starting 7 Jul 22
