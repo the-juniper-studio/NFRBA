@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Summer Badminton 2022
-date: 2022-05-16T17:48:14.847Z
+date: 2022-06-20T11:48:13.762Z
 ---
 **Westgate** – Monday 7.30-10 at King Ethelberts School, Birchington £5 no beginners
 
@@ -31,6 +31,8 @@ Members: free (Platinum members), £4.20 (Gold/ silver members), £6.70 (non-mem
 
 **Folkestone** - Mondays 7-9pm £5
 
-**Apollo** -Thursdays 7.30 - 10pm at St Anselm's from 14 July £5 night
+**Apollo** -Thursdays 8-10pm 9 Jun - 7 July Canterbury Academy then 7.30 - 10pm at St Anselm's from 14 July £5 night (first visit free)
 
 **Herne Bay** - Thursday 7 - 9pm at Herne Bay High School £5 starting 7 Jul 22
+
+**Invicta Pilgrims** - Friday 6.30 - 8pm Kings Recreation Centre 22 July - 28 Aug 22 - book place via invictapilgrims@gmail.com
