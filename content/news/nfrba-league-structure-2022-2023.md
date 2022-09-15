@@ -57,7 +57,6 @@ Racqueteers\
 Faversham\
 Herne Bay
 
-XX\
 Composite Divisions\
 The Canterbury Kings and Faversham teams will aim to be of the same standard.
 Comp teams will play each other once only (so 7 matches each).
