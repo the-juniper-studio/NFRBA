@@ -1,9 +1,9 @@
 ---
 layout: default
 title: NFRBA League Structure 2022/2023
-date: 2022-09-14T17:06:42.560Z
+date: 2022-09-21T14:54:12.611Z
 ---
-NFRBA - STRUCTURE FOR SEASON 2022/23 - ISSUED – V3
+NFRBA - STRUCTURE FOR SEASON 2022/23 - ISSUED – V4
 
 **Mixed**\
 Canterbury Kings\
@@ -18,7 +18,7 @@ Herne Bay
 Canterbury Kings White\
 Canterbury Kings Blue\
 Apollo (Ashford)\
-Wyndgate I\
+Wyndgate\
 Faversham I\
 Rovers I
 
@@ -33,12 +33,10 @@ Racqueteers
 Christ Church Uni\
 Rovers II\
 Invicta Pilgrims\
-Apollo\
-Wyndgate II\
 Faversham II\
 Herne Bay
 
-There is some doubt about Christ Church and Wyndgate 2 in Mens 3
+We have not heard from Christ Church\
 
 **Composite**\
 Canterbury Kings White\
