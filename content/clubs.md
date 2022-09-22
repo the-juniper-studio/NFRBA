@@ -45,16 +45,14 @@ Mondays 7.00 - 10.00\
 **Courts:** 4\
 Various sessions throughout the week - see Centre website
 
-
 ## Faversham
 
 **Website:** [www.favershambadminton.club](http://www.favershambadminton.club)\
 **Club nights:** Tuesdays 7.00 - 10.00\
-**Matches:** Barton Manor School, Spring Lane , CAbbey Place, Faversham ME13 7BQ;  Various days - often Tues 7.30-10.00\
-**Courts:** 2+\
-**Notes:** New players of all standards are welcome but we do not have the court time for complete beginners
+**Matches:** Barton Manor School, Spring Lane , Canterbury CT1 1SU Tuesdays 7.30 - 10.00\
+**Courts:** 2
 
-## Folkestone
+## Folkestone 
 
 **Club nights:** Mondays 7.00 to 9.00 (from 10th January) - visitors and new members welcome all year \
 **Matches:** Folkestone Sports Centre, Radnor Park Avenue, Ct19 5HX ; Fridays 7.00 - 10.00\
