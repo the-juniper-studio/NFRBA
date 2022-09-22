@@ -1,5 +1,5 @@
 ---
-title: Club Information
+title: Club Information at 22/09/2022
 hero: /images/uploads/badminton3.jpg
 ---
 This list shows the clubs in our area which are affiliated to the national badminton system. Most of them play in the local league and tournaments but also have members who just play socially without the more competitive involvement. The current COVID problems have meant that the number of players on club nights may need to be restricted so it is best to contact the club first rather than just arriving to play. To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/) to get contact details.
@@ -22,11 +22,9 @@ Mondays 7.00 - 10.00\
 ## Apollo (Canterbury)
 
 **Website:** [www.apollobadmintoncanterbury.co.uk](http://www.apollobadmintoncanterbury.co.uk)\
-**Club nights:** Thursdays (7.30 - 10.30) all year at St Anselm's\
+**Club nights:** Thursdays (7.30 - 10.00) all year at St Anselm's\
 **Matches:** St Anselm's School, Old Dover Rd, Canterbury CT1 3EN; Thursdays 7.45 - 10.30\
 **Courts:** 4
-
-We are a friendly league playing club with players of all strengths. We welcome new players of all standards who wish to enjoy the sport. We are a social badminton club that offers the opportunity to enter league matches for those who wish to play. We have a qualified Level 2 coach who is able to offer coaching and we have experienced players who are always ready to offer advice to help players improve their game.
 
 ## Canterbury Christ Church University
 
@@ -42,18 +40,17 @@ We are a friendly league playing club with players of all strengths. We welcome 
 
 ## Canterbury Kings
 
-**Club nights:** Wednesdays 7.15 - 9.30\
+**Club nights:** Wednesdays 7.30 - 9.30\
 **Matches:** Kings School Recreation Centre, St Stephen's Rd, Canterbury CT2 7HU; Sundays 5.00-7.30\
-**Courts:** 3\
-Mondays - 50+ 11.00 - 12.00 (term only), Badmintone 13.15 - 14.15 Courses ; Badminton for All 18.15 - 19.30\
-Tuesdays - Canterbury Para Badminton 20.00 - 21.30\
-Wednesday - term time - No Strings 12.15 - 13.45
+**Courts:** 4\
+Various sessions throughout the week - see Centre website
+
 
 ## Faversham
 
 **Website:** [www.favershambadminton.club](http://www.favershambadminton.club)\
-**Club nights:** Tuesdays 7.00 - 10.00 Sept to April\
-**Matches:** Queen Elizabeth School Sports Hall, Abbey Place, Faversham ME13 7BQ;  Various days - often Tues 7.30-10.00\
+**Club nights:** Tuesdays 7.00 - 10.00\
+**Matches:** Barton Manor School, Spring Lane , CAbbey Place, Faversham ME13 7BQ;  Various days - often Tues 7.30-10.00\
 **Courts:** 2+\
 **Notes:** New players of all standards are welcome but we do not have the court time for complete beginners
 
