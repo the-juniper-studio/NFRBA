@@ -34,9 +34,12 @@ Mondays 7.00 - 10.00\
 
 ## Canterbury Juniors
 
-**Club nights:** Saturdays 11.00 - 12.30\
-**Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ; Saturdays 11.00 - 12.30\
-**Courts**: 4
+**Club nights:** Saturdays 10.00 - 12.00\
+**Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ; Saturdays 10.00 - 12.00\
+**Courts**: 4\
+J﻿uniors aged 8 - 18. Visitors by arrangement.\
+C﻿lub Season - September to end of July. 3 Level 2 and 3 level 1 coaches\
+W﻿ebsite - www.cjbc.co.uk
 
 ## Canterbury Kings
 
@@ -48,47 +51,47 @@ Various sessions throughout the week - see Centre website
 ## Faversham
 
 **Website:** [www.favershambadminton.club](http://www.favershambadminton.club)\
-**Club nights:** Tuesdays 7.00 - 10.00\
+**Club nights:** Tuesdays 7.00 - 10.00 (2 courts, 4 if no match)\
 **Matches:** Barton Manor School, Spring Lane , Canterbury CT1 1SU Tuesdays 7.30 - 10.00\
 **Courts:** 2
 
-## Folkestone 
+## Folkestone
 
-**Club nights:** Mondays 7.00 to 9.00 (from 10th January) - visitors and new members welcome all year \
+**Club nights:** Mondays 7.00 to 9.00 - visitors and new members welcome all year \
+F﻿irst night free then £7. Not complete beginners.\
 **Matches:** Folkestone Sports Centre, Radnor Park Avenue, Ct19 5HX ; Fridays 7.00 - 10.00\
 **Courts:** 2\
-**Notes:** We are an informal and friendly club that plays all year round.  Unfortunately, we do not offer coaching, but welcome players of any standard that can confidently participate in a doubles game.
+**Notes:** Normal Club season September to May. Summer Club June to August\
+J﻿unior members welcome (half price available). No coaching provided. \
+F﻿acebook: 'Folkestone Badminton Club'. Enquiries: folkestoneshuttleclub@hotmail.com
 
 ## Hartsdown Park
 
-**Club nights:** Ramsgate Sports Centre CT11 9TT Mondays 7.30 - 10.30 - pay & play £7.00 per session\
-**Matches:** Hartsdown Leisure Centre, Hartsdown Road, Margate  CT9 5QX; Mondays 7.30 - 10.30\
-**Courts:** 2\
-**Notes:** We have a junior section for players up to the season of their 18th birthday: HARTSDOWN Sports Centre, Saturdays, 2pm – 4pm.  Free first session. £3 per session thereafter.
+**Club nights:** currently none available\
+**Matches:** St Georges School, Broadstairs CT10 2LH Tuesdays 8.00 - 10.00\
+**Courts:** 3
 
-## Herne Bay (previously Kings Road)
+## Herne Bay
 
-**This club is open just for social play after an extended COVID break. New players are welcome.**\
-**Club nights:** Thursday evenings 7.00 to 9.00\
+**Club nights:** Thursday evenings 7.00 to 9.00  All welcome  4 courts\
 Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
-**Courts:** 4\
-Club season September to April.
+**Matches:** Tuesdays 7.15 to 10.15 - 2 courts\
+e﻿mail: hernebayclub@gmail.com; Facebook: Herne Bay Badminton Club (page)\
 
 ## Herne Bay Juniors
 
-**Website:** Facebook [@hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton)\
+**Website:** www.facebook.com/hbjuniorbadminton[@hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton)\
 **Club nights:** 10.00 - 12.00 on Saturdays ages 10 to 17 years. Visitors by arrangement only\
 **Matches:** Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL; Sat 9.00-12.00\
 **Courts:** 4\
-Club season September to April. Two level 2 coaches.
+Club season September to April. Three level 2 and Three level 1 coaches
 
 ## Invicta-Pilgrims
 
-**Website:** Facebook www.facebook.com/invictapilgrimsbc[](http://www.facebook.com/invictapilgrimsbc)\
-**Club nights:** Thursdays 7.150-9.15 Visitors £6 adults; £3 children\
-**Matches:** Spires Academy, Bredlands Lane, Westbere CT2 0HD; Thursdays 7.15 - 9.15\
-**Courts: 4**\
-**Notes:** Our facebook page www.facebook.com/invictapilgrimsbc provides regular information and updates. We offer regular social events including fun tournaments and have an annual exchange with a Dutch club BECA2000.
+**Club nights:** Thursdays 7.30-9.00 Visitors £6 adults; £3 children\
+**Matches:** Spires Academy, Bredlands Lane, Westbere CT2 0HD; Thursdays 7.30 - 9.00 (2 courts)\
+**Notes:** We are a friendly club accepting players of all abilities.\
+We offer regular social events including fun tournaments and have an annual exchange with a Dutch club BECA2000.
 
 ## Minster
 
