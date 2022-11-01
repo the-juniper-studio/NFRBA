@@ -1,5 +1,5 @@
 ---
-title: Club Information at 22/09/2022
+title: Club Information at 01/11/2022
 hero: /images/uploads/badminton3.jpg
 ---
 This list shows the clubs in our area which are affiliated to the national badminton system. Most of them play in the local league and tournaments but also have members who just play socially without the more competitive involvement. The current COVID problems have meant that the number of players on club nights may need to be restricted so it is best to contact the club first rather than just arriving to play. To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/) to get contact details.
@@ -102,28 +102,17 @@ We offer regular social events including fun tournaments and have an annual exc
 
 ## Racqueteers
 
-**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)\
-**Club nights:** Wednesdays 7.30 - 9.30 check first - Simon Langton Boys School\
+**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk)\
+**Club nights:** Mondays and Wednesdays\
+M﻿onday - 7.30 to 9.30 Northgate Centre, Military Road, Canterbury CT1 1YX Just turn up - Pay and Play\
+W﻿ednesday - 7.30 to 9.30 Simon Langton - 2 x taster sessions then membership needed\
 **Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.30 - 9.30\
 **Courts:** 2+
 
-## Racqueteers Junior Club
-
-**Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk) also Facebook [@racqueteersincanterbury](https://www.facebook.com/racqueteersincanterbury/)\
-Meets at Simon Langton Boys School on Saturdays at 2.30 pm to 4.30 pm. Coaching offered and regular matches and tournaments.
-
 ## Rovers
 
-**Website:** [](http://www.roversbc.org)www.roversbc.co.uk\
-**Club nights:** Tuesdays 7.30 - 9.30\
-**Matches:** Canterbury Sports and Fitness Centre, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00\
-**Courts:** 4
-
-## Scorpions
-
-**Club nights:** Thursday 7.30 - 9.45\
-**Matches:** Sandwich Leisure Centre, Deal Road, Sandwich CT13 0FA; Thursday 7.15 warmup, 7.30 start - 10.00\
-**Courts:** 2+
+**Club nights:** Tuesdays 7.30 - 9.30 - visitors limited to 3 visits (4 courts)\
+**Matches:** Canterbury College Sports Hall, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00 (3)\
 
 ## Westgate
 
@@ -134,7 +123,7 @@ New members welcome - including beginners and juniors
 ## Wyndgate
 
 **Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
-**Club nights:** Fridays 7.00 - 10.00  \
+**Club nights:** Fridays 7.00 - 10.00  Need ability to play to a reasonable standard, Play all year\
 **Matches:** Folkestone Sports Centre, Radnor Park Avenue CT19 5HX; Friday 7.00 - 10.00\
 **Courts:** 2\
 Ability to play needed. Informal coaching available. Play all year.
