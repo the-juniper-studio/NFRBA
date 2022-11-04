@@ -4,32 +4,14 @@ hero: /images/uploads/badders.jpg
 ---
 ## UPCOMING EVENTS
 
-Falcons Cup 20 March 2022
+J﻿unior Tournament (ages 10/14/18)   Sunday 20th November
 
-Inter-Regional Seniors, Sunday 10th April 2022
+J﻿unior Tournament (ages 12/16)        Sunday 27th November
 
-Inter-Regional Juniors, Sunday 24th April 2022
+F﻿alcons Cup                                        Sunday 26th February
 
-Inter-Club Event, Saturday 7th May 2022
+Inter-Regional Juniors,  Sunday 16th April 2023  
 
-## PAST Events
+Inter-Regional Seniors,  Sunday 30th April 2023 
 
-Inter-Regional Seniors, Sunday 19th April 2020
-
-Inter-Regional Juniors, Sunday 26th April 2020
-
-Inter-Club Event, Sunday 17th May 2020 
-
-AGM, Thursday 13th June 2019
-
-Inter-Club Event, Saturday 11th May 2019, 10.00am - 5.00pm
-
-Inter-Regional Juniors, Sunday 28th April 2019
-
-Inter-Regional Seniors, Saturday 13th April 2019
-
-Junior Tournament, Sunday 3rd February 2019, 10.00am - 5.00pm
-
-Junior Falcons Cup, Sunday 17th November 2019 - [view results](/juniors/falcons-cup-2019/)
-
-Inter-Club Event, Saturday 14th May 2018 - [read report](/news/club-event-report-2018/)
+Inter-Club Event,  Saturday 6th May 2023
