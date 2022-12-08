@@ -1,5 +1,5 @@
 ---
-title: Club Information at 01/11/2022
+title: Club Information at 08/12/2022
 hero: /images/uploads/badminton3.jpg
 ---
 This list shows the clubs in our area which are affiliated to the national badminton system. Most of them play in the local league and tournaments but also have members who just play socially without the more competitive involvement. The current COVID problems have meant that the number of players on club nights may need to be restricted so it is best to contact the club first rather than just arriving to play. To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/) to get contact details.
@@ -52,7 +52,7 @@ Various sessions throughout the week - see Centre website
 
 **Website:** [www.favershambadminton.club](http://www.favershambadminton.club)\
 **Club nights:** Tuesdays 7.00 - 10.00 (2 courts, 4 if no match)\
-**Matches:** Barton Manor School, Spring Lane , Canterbury CT1 1SU Tuesdays 7.30 - 10.00\
+**Matches:** Barton Manor School, Spring Lane , Canterbury CT1 1SU Tuesdays 7.00 - 10.00\
 **Courts:** 2
 
 ## Folkestone
