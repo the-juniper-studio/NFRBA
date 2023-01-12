@@ -51,8 +51,8 @@ Various sessions throughout the week - see Centre website
 ## Faversham
 
 **Website:** www.favershambadminton.co.uk[](http://www.favershambadminton.club)\
-**Club nights:** Tuesdays 7.00 - 10.00 (2 courts, 4 if no match)\
-**Matches:** Barton Manor School, Spring Lane , Canterbury CT1 1SU Tuesdays 7.00 - 10.00\
+**Club nights:** Tuesdays 7.00 - 9.30pm (2 courts, 4 if no match)\
+**Matches:** Barton Manor School, Spring Lane , Canterbury CT1 1SU Tuesdays 7.00 - 9.30pm\
 **Courts:** 2
 
 ## Folkestone
