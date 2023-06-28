@@ -8,7 +8,7 @@ hero: /images/uploads/badminton2.jpg
 
 [Junior rules](/images/uploads/Junior_rules_2022.pdf)
 
-[Senior Match Rules](/images/uploads/senior_match_rules.pdf)
+[Senior Match Rules](/images/uploads/senior_rules_2022.pdf)
 
 [Captain notes](/images/uploads/nfrba-captain-notes.pdf)
 
