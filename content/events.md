@@ -4,12 +4,14 @@ hero: /images/uploads/badders.jpg
 ---
 ## UPCOMING EVENTS
 
-F﻿alcons Cup     Sunday 26th February 2023
+Junior Tournament U10, 14, 18 Sunday 12th November
 
-Inter-Regional Juniors,  Sunday 16th April 2023  
+Junior Tournament U12, 16  Sunday 26th November
 
-Inter-Regional Seniors,  Sunday 30th April 2023 
+F﻿alcons Cup (Junior clubs) Sunday 25th February 2024
 
-Inter-Club Event,  Saturday 13th May 2023     DATE CHANGED\
-\
-AGM Wednesday 28th June
+Inter-Regional Seniors,  Sunday 7th April 2024 
+
+Inter-Regional Juniors,  Sunday 28th April 2024
+
+Inter-Club (Bowness Cup),  Saturday 11th May 2024
