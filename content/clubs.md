@@ -87,7 +87,7 @@ Club season September to April. Three level 2 and Three level 1 coaches
 
 **Club nights:** Thursdays 7.00 - 9.00 Visitors £7 adults; £3.50 children\
 **Matches:** Kent College Sports Hall, Park in the Events Car Park Neals Place Road, off Whitstable Road, Canterbury,\
-C﻿T2 8HL; Thursdays 7.00 - 9.00pm 2 courts\
+C﻿T2 8HL; Thursdays 7.00 - 9.00pm 4 courts\
 **Notes:** We are a friendly club accepting players of all abilities.\
 We offer regular social events including fun tournaments and have an annual exchange with a Dutch club BECA2000.
 
