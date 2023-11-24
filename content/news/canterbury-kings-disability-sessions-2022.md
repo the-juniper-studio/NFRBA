@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Canterbury Kings Disability Sessions 2022
+title: Canterbury Kings Disability Sessions 2023-24
 date: 2022-09-14T10:28:23.523Z
 ---
-![](/images/uploads/kings-disability-sessions.jpg)
+![](/images/uploads/kings-disability-24.jpg)
