@@ -16,4 +16,4 @@ Inter-Regional Juniors,  Sunday 28th April 2024
 
 Inter-Club (Bowness Cup),  Saturday 11th May 2024\
 \
-A﻿GM - Wednesday 26th June 2024  - 7.00 for 7.30 - Polo Farm
+A﻿GM - Wednesday 12th June 2024  - 7.00 for 7.30 - Polo Farm
