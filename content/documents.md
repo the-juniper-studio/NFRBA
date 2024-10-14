@@ -16,18 +16,10 @@ hero: /images/uploads/badminton2.jpg
 
 ## Printable Scorecards
 
-[4 player match card](/images/uploads/4player_card.pdf)
+[4 player match card](</images/uploads/4player_card V2.doc>)
 
-[6 player match card](/images/uploads/6player_card.pdf)
+[6 player match card](</images/uploads/match_card_standard V2.doc>)
 
-[Composite match card](/images/uploads/composite_card.pdf)
+[Composite match card](</images/uploads/composite_card V2.doc>)
 
 [Junior match card](/images/uploads/jnrmatchsheet2019.pdf)
-
-## Electronic Scorecards
-
-[4 player match card](/images/uploads/rps-4-player-match-card-version-110826.xlsx)
-
-[6 player match card](/images/uploads/rps-6-player-card-version-111007.xlsx)
-
-[Composite match card](/images/uploads/rps-composit-match-card-version-110826.xlsx)
