@@ -29,10 +29,9 @@ T﻿hursday 8.00 - 10.00 (3 pairs - hall open from 7.45 for prompt start)
 
 ## Canterbury Christ Church University
 
-**Club nights:** Students only Tuesday\
-**Matches:** CCC Sports Centre, Pilgrims Way, Canterbury CT1 1XS; \
-**Courts:** 4\
-Fridays 7.30-9.30
+**Club nights:** \
+**Matches:**  \
+**Courts:** 
 
 ## Canterbury Juniors
 
@@ -45,49 +44,52 @@ W﻿ebsite - www.cjbc.co.uk
 
 ## Canterbury Kings
 
-**Club nights:** Wednesdays 7.30-9.30\
+**Club nights:** Wednesdays 7.15 -9.30\
 **Matches:** Kings School Recreation Centre, St Stephen's Rd, Canterbury CT2 7HU; Sundays 5.00-7.00\
 **Courts:** 4\
 Various sessions throughout the week - see Centre website
 
+## Falcons
+
+**Website:** www.favershambadminton.co.uk [](http://www.favershambadminton.club)\
+**Club nights:** Tuesdays 6.00 - 7.00 \
+**Matches:** Queen Elizabeths Grammar School, Abbey Place, Faversham, ME13 7BQ\
+**Courts:** 4
+
 ## Faversham
 
-**Website:** www.favershambadminton.co.uk[](http://www.favershambadminton.club)\
-**Club nights:** Tuesdays 7.00 - 10.00 (2 courts, 4 if no match)\
+**Website:** www.favershambadminton.co.uk _visitors need to contact secretary first[](http://www.favershambadminton.club)\
+**Club nights:** Tuesdays 7.00 - 9.30 (2 courts, 4 if no match)\
 **Matches:** Queen Elizabeths Grammar School, Abbey Place, Faversham, ME13 7BQ\
 **Courts:** 4\
-T﻿ues 7.15-10pm
+T﻿ues 7.00-9.30pm 
 
 ## Folkestone
 
-**Club nights:** Mondays 7.00 to 9.00 - visitors and new members welcome all year \
-F﻿irst night free then £7. Not complete beginners.\
-**Matches:** Folkestone Sports Centre, Radnor Park Avenue, Ct19 5HX ; Fridays 7.00 - 10.00\
-**Courts:** 2\
-**Notes:** Normal Club season September to May. Summer Club June to August\
-J﻿unior members welcome (half price available). No coaching provided. \
-F﻿acebook: 'Folkestone Badminton Club'. Enquiries: folkestoneshuttleclub@hotmail.com
+**Club nights:**\
+**Matches:** \
+**Courts:** \
+**Notes:** 
 
 ## Herne Bay
 
 **Club nights:** Thursday evenings 7.00 to 9.00  All welcome  4 courts\
 Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
-**Matches:** Tuesdays 7.30 to 10.15 - 2 courts\
+**Matches:** Tuesdays 7.30 to 10.00 - 2 courts\
 e﻿mail: hernebayclub@gmail.com; Facebook: Herne Bay Badminton Club (page)\
 
 ## Herne Bay Juniors
 
 **Website:** www.facebook.com/hbjuniorbadminton[@hbjuniorbadminton](http://www.facebook.com/hbjuniorbadminton)\
-**Club nights:** 9.00 - 12.00 on Saturdays ages 10 to 17 years. Visitors by arrangement only\
+**Club nights:** 9.30 - 11.00 and 11.00 - 12.30  on Saturdays ages 10 to 17 years. Visitors by arrangement only\
 **Matches:** Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL; Sat 9.00-12.00\
 **Courts:** 4\
 Club season September to April. Three level 2 and Three level 1 coaches
 
 ## Invicta-Pilgrims
 
-**Club nights:** Thursdays 7.00 - 9.00 Visitors £7 adults; £3.50 children\
-**Matches:** Kent College Sports Hall, Park in the Events Car Park Neals Place Road, off Whitstable Road, Canterbury,\
-C﻿T2 8HL; Thursdays 7.00 - 9.00pm 4 courts\
+**Club nights:** Thursdays 7.00 - 9.00 Kent College Sports Hall, Park in the Events Car Park Neals Place Road, off Whitstable Road, Canterbury,C﻿T2 8HL; \
+**Matches:**Thursdays 7.00 - 9.00pm 4 courts Kent College Junior School, Harbledown, CT2 9AQ 7.45 - 9.45pm\
 **Notes:** We are a friendly club accepting players of all abilities.\
 We offer regular social events including fun tournaments and have an annual exchange with a Dutch club BECA2000.
 
@@ -110,11 +112,11 @@ W﻿ednesday - 7.30 to 9.30 Simon Langton - 2 x taster sessions then membership 
 ## Rovers
 
 **Club nights:** Tuesdays 7.30 - 9.30 - visitors limited to 3 visits (4 courts)\
-**Matches:** Canterbury College Sports Hall, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00 (3)\
+**Matches:** Canterbury College Sports Hall, New Dover Rd, Canterbury CT1 3AJ ; Fridays 8.00 - 10.00 (3)
 
 ## Westgate
 
-**Club nights:** Monday 7.30 - 10.00\
+**Club nights:** Monday 7.30 - 10.00 Visitors welcome\
 **Matches:** King Ethelberts School, Canterbury Rd, Birchington CT7 9BL; Monday 7.30 - 10.00\
 New members welcome - including beginners and juniors
 
@@ -122,6 +124,6 @@ New members welcome - including beginners and juniors
 
 **Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
 **Club nights:** Fridays 7.00 - 10.00  Need ability to play to a reasonable standard, Play all year\
-**Matches:** Folkestone Sports Centre, Radnor Park Avenue CT19 5HX; Friday 7.00 - 10.00\
+**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU (2/3) Fri 7.00 - 9.00pm\
 **Courts:** 2\
 Ability to play needed. Informal coaching available. Play all year.
