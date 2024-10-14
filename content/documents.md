@@ -8,7 +8,7 @@ hero: /images/uploads/badminton2.jpg
 
 [Junior rules](/images/uploads/Junior_rules_2022.pdf)
 
-[Senior Match Rules](</images/uploads/NFRULES 24.DOC>)
+[Senior Match Rules](/images/uploads/nfrules-24.doc)
 
 [Captain notes](/images/uploads/nfrba-captain-notes.pdf)
 
@@ -16,9 +16,9 @@ hero: /images/uploads/badminton2.jpg
 
 ## Printable Scorecards
 
-[4 player match card](</images/uploads/4player_card V2.doc>)
+[4 player match card](/images/uploads/4player_card-v2.doc)
 
-[6 player match card](</images/uploads/match_card_standard V2.doc>)
+[6 player match card](/images/uploads/match_card_standard-v2.doc)
 
 [Composite match card](/images/uploads/composite_card-v2.doc)
 
