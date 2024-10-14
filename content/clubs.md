@@ -129,7 +129,7 @@ New members welcome - including beginners and juniors
 ## Wyndgate
 
 **Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
-**Club nights:** Fridays 7.00 - 10.00  Need ability to play to a reasonable standard, Play all year\
-**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU (2/3) Fri 7.00 - 9.00pm\
-**Courts:** 2\
-Ability to play needed. Informal coaching available. Play all year.
+**Club nights:** Fridays 7.00 - 9.00  Need ability to play to a reasonable standard, Play all year\
+**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU  Fri 7.00 - 9.00pm\
+**Courts:** 2 for 4 players matches and 3 for 6 player matches\
+Ability to play needed.  Play all year.
