@@ -103,9 +103,8 @@ We offer regular social events including fun tournaments and have an annual exc
 ## Racqueteers
 
 **Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk)\
-**Club nights:** Mondays and Wednesdays\
-M﻿onday - 7.30 to 9.30 Northgate Centre, Military Road, Canterbury CT1 1YX Just turn up - Pay and Play\
-W﻿ednesday - 7.30 to 9.30 Simon Langton - 2 x taster sessions then membership needed\
+**Club nights:** Wednesdays - 7.30 to 9.30 Simon Langton - 2 x taster sessions then membership needed\
+**N﻿otes:** New members (beginners or experienced players) welcome, please contact in advance. Guests welcome, please contact in advance.\
 **Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.30 - 9.30\
 **Courts:** 2+
 
