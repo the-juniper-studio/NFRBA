@@ -1,5 +1,5 @@
 ---
-title: Club Information at 9/11/23
+title: Club Information at 14/10/24
 hero: /images/uploads/badminton3.jpg
 ---
 This list shows the clubs in our area which are affiliated to the national badminton system. Most of them play in the local league and tournaments but also have members who just play socially without the more competitive involvement.  To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/) to get contact details.
