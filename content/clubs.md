@@ -8,6 +8,7 @@ This list shows the clubs in our area which are affiliated to the national badmi
 
 **Club nights:** Mondays 7.00 - 10.00\
 **Matches:** Sandwich Leisure Centre, Deal Road, Sandwich CT13 0BU\
+**W﻿ebsite:** www.ajaxbadminton.com\
 **Courts:** 2\
 Mondays 7.30 - 10.00; poss Thurs 8.00-10.00\
 **Notes:** New members, juniors, visitors, beginners welcomed
