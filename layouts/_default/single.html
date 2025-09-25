@@ -1,8 +1,20 @@
 {{ define "main" }}
-  <main role="main" id="main">
-    <h1>{{ .Title }}</h1>
-    {{ if eq .Dir "news/" }}<div class="text-center"><small><strong>Published:</strong> {{ .Page.Lastmod.Month }} {{ .Page.Lastmod.Day }}, {{ .Page.Lastmod.Year }}</small></div>{{ end }}
-    {{ if eq .Dir "tables/" }}<div class="text-center"><small><strong>Last Updated:</strong> {{ .Page.Lastmod.Month }} {{ .Page.Lastmod.Day }}, {{ .Page.Lastmod.Year }}</small></div>{{ end }}
-    {{ .Content }}
-  </main>
-{{end}}
+<main role="main" id="main">
+  <h1>{{ .Title }}</h1>
+  {{ if eq .Section "news" }}
+  <div class="text-center">
+    <small
+      ><strong>Published:</strong> {{ .Lastmod.Format "January 2, 2006"
+      }}</small
+    >
+  </div>
+  {{ end }} {{ if eq .Section "tables" }}
+  <div class="text-center">
+    <small
+      ><strong>Last Updated:</strong> {{ .Lastmod.Format "January 2, 2006"
+      }}</small
+    >
+  </div>
+  {{ end }} {{ .Content }}
+</main>
+{{ end }}

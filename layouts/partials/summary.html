@@ -1,21 +1,33 @@
-{{ if isset .Params "thumbnail" }}
-  <section class="grid">
-    <div>
-      <img src="{{ .Params.thumbnail}}" class="img-fluid" alt="" />
-    </div>
-    <div class="mt-0">
-      <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
-      {{ .Summary  }}
-      <div class="mt-0"><a href="{{ .URL }}">read more</a></div>
-    </div>
-  </section>
+{{ $permalink := .RelPermalink }} {{ if isset .Params "thumbnail" }}
+<section class="grid">
+  <div>
+    <img src="{{ .Params.thumbnail }}" class="img-fluid" alt="{{ .Title }}" />
+  </div>
+  <div class="mt-0">
+    <h3 class="mt-0"><a href="{{ $permalink }}">{{ .Title }}</a></h3>
+
+    {{ with .Params.summary }}
+    <p>{{ . }}</p>
+    {{ else }}
+    <p>{{ .Summary | plainify }}</p>
+    {{ end }}
+
+    <div class="mt-0"><a href="{{ $permalink }}">read more</a></div>
+  </div>
+</section>
 {{ else }}
-  <section>
-    <div class="mt-0">
-      <h3 class="mt-0"><a href="{{ .URL }}">{{ .Title }}</a></h3>
-      {{ .Summary  }}
-      <div class="mt-0"><a href="{{ .URL }}">read more</a></div>
-    </div>
-  </section>
+<section>
+  <div class="mt-0">
+    <h3 class="mt-0"><a href="{{ $permalink }}">{{ .Title }}</a></h3>
+
+    {{ with .Params.summary }}
+    <p>{{ . }}</p>
+    {{ else }}
+    <p>{{ .Summary | plainify }}</p>
+    {{ end }}
+
+    <div class="mt-0"><a href="{{ $permalink }}">read more</a></div>
+  </div>
+</section>
 {{ end }}
-<hr aria-hidden="true" role="presentation">
+<hr aria-hidden="true" role="presentation" />
