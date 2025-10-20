@@ -115,8 +115,8 @@ We offer regular social events including fun tournaments and have an annual exc
 
 **Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk)\
 **V﻿enue 1 -** Simon Langton Boys School Canterbury CT4 7As Saturday 2.00pm\
-**V﻿enue 2 -** The Wye School Olantigh Rd, Wye, TN25 5EJ Tuesday 5.30pm\
-**N﻿otes**: All wlecome 8 - 18 Years of ages - Fully coached
+**V﻿enue 2 -** Towers School, Faversham Road, Kennington, Ashford  ~TN24 9AL Tuesday 5.30pm\
+**N﻿otes**: All welcome 8 - 18 Years of ages - Fully coached
 
 ## Rovers
 
