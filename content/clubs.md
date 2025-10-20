@@ -1,5 +1,5 @@
 ---
-title: Club Information at 14/10/24
+title: Club Information at 20/10/25
 hero: /images/uploads/badminton3.jpg
 ---
 This list shows the clubs in our area which are affiliated to the national badminton system. Most of them play in the local league and tournaments but also have members who just play socially without the more competitive involvement.  To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/) to get contact details.
@@ -16,21 +16,20 @@ Mondays 7.30 - 10.00; poss Thurs 8.00-10.00\
 ## Apollo (Ashford)
 
 **Website:** <https://apollobc.wixsite.com/play>\
-**Club nights:** Thursday 8-10 (1 if match 4 if no match)\
-**Matches:** Ashford School (Sports Hall) East Hill TN24 8PA\
-**Courts:** 4\
-T﻿hursday 8.00 - 10.00 (3 pairs - hall open from 7.45 for prompt start)
+**Club nights:** Thursday 7.30 - 9.30 pm (1 if match 4 if no match)\
+**Matches:** The Wye School, Olantigh Road, Wye, TN25 5EJ\
+**Courts:** 4
 
 ## Apollo (Canterbury)
 
 **Website:** [www.apollobadmintoncanterbury.co.uk](http://www.apollobadmintoncanterbury.co.uk)\
-**Club nights:** Thursdays (7.30 - 9.50) all year at St Anselm's\
-**Matches:** St Anselm's School, Old Dover Rd, Canterbury CT1 3EN; Thursdays 7.30 - 9.50\
+**Club nights:** Thursdays (7.30 - 9.30) all year \
+**Matches:** Barton Manor School, Spring Lane, Canterbury, CT1 1SU Sun 5-7.30pm\
 **Courts:** 4
 
-## Canterbury Christ Church University
+## B﻿roadstairs Juniors
 
-**Club nights:** \
+**Club nights:** Upton School, Edge End Road, Broadstairs, CT10 2AH\
 **Matches:**  \
 **Courts:** 
 
@@ -76,7 +75,7 @@ T﻿ues 7.00-9.30pm
 
 **Club nights:** Thursday evenings 7.00 to 9.00  All welcome  4 courts\
 Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
-**Matches:** Tuesdays 7.30 to 10.00 - 2 courts\
+**Matches:** Tuesdays 7.30 to 10.00 - 2 courts  Sun 7-9.30pm\
 e﻿mail: hernebayclub@gmail.com; Facebook: Herne Bay Badminton Club (page)\
 
 ## Herne Bay Juniors
