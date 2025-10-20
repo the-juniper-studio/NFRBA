@@ -89,7 +89,7 @@ Club season September to April. Three level 2 and Three level 1 coaches
 ## Invicta-Pilgrims
 
 **Club nights:** Thursdays 7.00 - 9.00 Kent College Sports Hall, Park in the Events Car Park Neals Place Road, off Whitstable Road, Canterbury,C﻿T2 8HL; \
-**Matches:**Thursdays 7.45 - 9.45pm 4 courts Kent College Junior School, Harbledown, CT2 9AQ \
+**Matches:** Mondays 7.45 - 9.45pm 4 courts Kent College Junior School, Harbledown, CT2 9AQ \
 **Notes:** We are a friendly club accepting players of all abilities.\
 We offer regular social events including fun tournaments and have an annual exchange with a Dutch club BECA2000.
 
