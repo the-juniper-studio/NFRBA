@@ -123,13 +123,13 @@ We offer regular social events including fun tournaments and have an annual exc
 ## Westgate
 
 **Club nights:** Monday 7.30 - 10.00 Visitors welcome\
-**Matches:** King Ethelberts School, Canterbury Rd, Birchington CT7 9BL; Monday 7.30 - 10.00\
+**Matches:** King Ethelberts School, Canterbury Rd, Birchington CT7 9BL; Monday 6.45 for 7pm start - 10pm\
 New members welcome - including beginners and juniors
 
 ## Wyndgate
 
 **Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
-**Club nights:** Fridays 7.00 - 9.00  Need ability to play to a reasonable standard, Play all year\
-**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU  Fri 7.00 - 9.00pm\
+**Club nights:** Fridays 7.00 - 9.00 all year except Jan/Feb/Mar 8-10pm\
+**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU  Weds 7.00 - 9.00pm\
 **Courts:** 2 for 4 players matches and 3 for 6 player matches\
 Ability to play needed.  Play all year.
