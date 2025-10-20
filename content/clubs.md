@@ -44,7 +44,9 @@ W﻿ebsite - www.cjbc.co.uk
 
 ## Canterbury Kings
 
-**Website link:** Badminton - Kings Canterbury Sports Centre\
+**Website link:** 
+[Badminton – Kings Canterbury Sports Centre](https://www.kingsschoolsportscentre.co.uk/badminton/)
+
 **Club nights:** Wednesdays 7.15 -9.30 Club Training Night Mon 7.45-9.30pm\
 **Matches:** Kings School Recreation Centre, St Stephen's Rd, Canterbury CT2 7HU; Sundays 5.00-7.00\
 **Courts:** 4\
