@@ -23,7 +23,7 @@ Mondays 7.30 - 10.00; poss Thurs 8.00-10.00\
 ## Apollo (Canterbury)
 
 **Website:** [www.apollobadmintoncanterbury.co.uk](http://www.apollobadmintoncanterbury.co.uk)\
-**Club nights:** Thursdays (7.30 - 9.30) all year \
+**Club nights:** Thursdays (7.30 - 10.00pm) all year \
 **Matches:** Barton Manor School, Spring Lane, Canterbury, CT1 1SU Sun 5-7.30pm\
 **Courts:** 4
 
