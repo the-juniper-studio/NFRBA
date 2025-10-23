@@ -106,9 +106,9 @@ We offer regular social events including fun tournaments and have an annual exc
 ## Racqueteers
 
 **Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk)\
-**Club nights:** Wednesdays - 7.30 to 9.30 Simon Langton - 2 x taster sessions then membership needed\
-**N﻿otes:** New members (beginners or experienced players) welcome, please contact in advance. Guests welcome, please contact in advance.\
-**Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.30 - 9.30\
+**Club nights:** Wednesdays - 7.30 to 9.30 Simon Langton Boys School - 4 courts\
+**N﻿otes:** guests need to book in advance, please contact via the website\
+**Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.00 - 9.30\
 **Courts:** 2+
 
 ## Racqueteers Juniors
