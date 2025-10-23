@@ -6,7 +6,7 @@ hero: /images/uploads/badminton2.jpg
 
 [Constitution](/images/uploads/constitution.pdf)
 
-[Junior rules](/images/uploads/Junrules2025.pdf)
+[Junior rules](/images/uploads/junrules2025.doc)
 
 [Senior Match Rules](/images/uploads/nfrules-24.doc)
 
@@ -22,6 +22,6 @@ hero: /images/uploads/badminton2.jpg
 
 [Composite match card](/images/uploads/composite_card-v2.doc)
 
-[Junior match card 6 player](</images/uploads/jnrmatchsheet2025 6 player.docx>)
+[Junior match card 6 player](/images/uploads/jnrmatchsheet2025-6-player.docx)
 
-[Junior match card 4 player](</images/uploads/jnrmatchsheet2025 4 player.docx>)[](/images/uploads/jnrmatchsheet2019.pdf)
+[Junior match card 4 player](/images/uploads/jnrmatchsheet2025-4-player.docx)[](/images/uploads/jnrmatchsheet2019.pdf)
