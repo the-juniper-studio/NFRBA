@@ -28,4 +28,4 @@ hero: /images/uploads/badminton2.jpg
 
 [Junior match card 4 player](/images/uploads/jnrmatchsheet2025-4-player.docx)
 
-[Parabadminton match card](/images/uploads/parabadminton-match-sheet.docx)[](/images/uploads/jnrmatchsheet2019.pdf)
+[Parabadminton match card](images/uploads/parabadmintonmatchsheet26-27.docx)[](/images/uploads/jnrmatchsheet2019.pdf)
