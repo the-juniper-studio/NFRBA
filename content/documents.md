@@ -14,7 +14,7 @@ hero: /images/uploads/badminton2.jpg
 
 [Rally points scoring info](/images/uploads/nfrba-rally-points-scoring.pdf)
 
-[Parabadminton Rules](/images/uploads/para-badminton-league-rules-2025.docx)
+[Parabadminton Rules](images/uploads/parabadmintonleague-rules-2026-2027.docx)
 
 ## Printable Scorecards
 
