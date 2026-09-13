@@ -8,13 +8,13 @@ hero: /images/uploads/badminton2.jpg
 
 [Junior rules](/images/uploads/junrules26.doc)
 
-[Senior Match Rules](images/uploads/senior-rules-26.doc)
+[Senior Match Rules](/images/uploads/senior-rules-26.doc)
 
 [Captain notes](/images/uploads/nfrba-captain-notes.pdf)
 
 [Rally points scoring info](/images/uploads/nfrba-rally-points-scoring.pdf)
 
-[Parabadminton Rules](images/uploads/parabadmintonleague-rules-2026-2027.docx)
+[Parabadminton Rules](/images/uploads/parabadmintonleague-rules-2026-2027.docx)
 
 ## Printable Scorecards
 
@@ -28,4 +28,4 @@ hero: /images/uploads/badminton2.jpg
 
 [Junior match card 4 player](/images/uploads/jnrmatchsheet2025-4-player.docx)
 
-[Parabadminton match card](images/uploads/parabadmintonmatchsheet26-27.docx)[](/images/uploads/jnrmatchsheet2019.pdf)
+[Parabadminton match card](/images/uploads/parabadmintonmatchsheet26-27.docx)[](/images/uploads/jnrmatchsheet2019.pdf)
