@@ -6,9 +6,9 @@ hero: /images/uploads/badminton2.jpg
 
 [Constitution](/images/uploads/constitution.pdf)
 
-[Junior rules](/images/uploads/junrules2025.doc)
+[Junior rules](images/uploads/junrules26.doc)
 
-[Senior Match Rules](static/images/uploads/senior-rules-26.doc)
+[Senior Match Rules](images/uploads/senior-rules-26.doc)
 
 [Captain notes](/images/uploads/nfrba-captain-notes.pdf)
 
