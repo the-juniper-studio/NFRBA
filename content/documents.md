@@ -6,7 +6,7 @@ hero: /images/uploads/badminton2.jpg
 
 [Constitution](/images/uploads/constitution.pdf)
 
-[Junior rules](images/uploads/junrules26.doc)
+[Junior rules](/images/uploads/junrules26.doc)
 
 [Senior Match Rules](images/uploads/senior-rules-26.doc)
 
