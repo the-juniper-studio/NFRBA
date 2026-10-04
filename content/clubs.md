@@ -1,5 +1,5 @@
 ---
-title: Club Information at 20/10/25
+title: Club Information at 4/10/26
 hero: /images/uploads/badminton3.jpg
 ---
 This list shows the clubs in our area which are affiliated to the national badminton system. Most of them play in the local league and tournaments but also have members who just play socially without the more competitive involvement.  To contact the clubs please use our [contact form](https://www.nfrba.co.uk/contact/) to get contact details.
@@ -7,10 +7,10 @@ This list shows the clubs in our area which are affiliated to the national badmi
 ## Ajax
 
 **Club nights:** Mondays 7.00 - 10.00\
-**Matches:** Sandwich Leisure Centre, Deal Road, Sandwich CT13 0BU\
+**Matches:** Sandwich Leisure Centre, Deal Road, Sandwich CT13 0BU \
 **W﻿ebsite:** www.ajaxbadminton.com\
 **Courts:** 2\
-Mondays 7.30 - 10.00; poss Thurs 8.00-10.00\
+Mondays 7.30 - 10.00; Fri 7 - 10 pm\
 **Notes:** New members, juniors, visitors, beginners welcomed
 
 ## Apollo (Ashford)
@@ -27,10 +27,15 @@ Mondays 7.30 - 10.00; poss Thurs 8.00-10.00\
 **Matches:** Barton Manor School, Spring Lane, Canterbury, CT1 1SU Sun 5-7.30pm\
 **Courts:** 4
 
+## Blaze Juniors
+
+Club nights Tues 5.30 - 7.30pm Highworth School,  Maidstone Road Ashford, TN24 8UD Weds 5.30-7pm Norton Knatchbull School, Hythe Road, Ashford,TN24 0QJ\
+Matches: Thursday 6.30 - 8.30pm Norton Knatchbull School
+
 ## B﻿roadstairs Juniors
 
 **Club nights:** Upton School, Edge End Road, Broadstairs, CT10 2AH\
-**Matches:**  \
+**Times:**  Saturday 9-11am Beginners, 11am - 1pm (Intermediates term time only 8-18)\
 **Courts:** 
 
 ## Canterbury Juniors
@@ -47,23 +52,23 @@ W﻿ebsite - www.cjbc.co.uk
 **Website link:** 
 [Badminton – Kings Canterbury Sports Centre](https://www.kingsschoolsportscentre.co.uk/badminton/)
 
-**Club nights:** Wednesdays 7.15 -9.30 Club Training Night Mon 7.45-9.30pm\
+**Club nights:** Wednesdays 7.15 -9.30 Club \
 **Matches:** Kings School Recreation Centre, St Stephen's Rd, Canterbury CT2 7HU; Sundays 5.00-7.00\
 **Courts:** 4\
 Various sessions throughout the week - see Centre website
 
 ## Falcons
 
-**Website:** www.favershambadminton.co.uk [](http://www.favershambadminton.club)\
+**Website:** www.favershambadminton.co.uk \
 **Club nights:** Tuesdays 6.00 - 7.00 \
-**Matches:** Queen Elizabeths Grammar School, Abbey Place, Faversham, ME13 7BQ\
+**Matches:** Queen Elizabeth's Grammar School, Abbey Place, Faversham, ME13 7BQ\
 **Courts:** 4
 
 ## Faversham
 
-**Website:** www.favershambadminton.co.uk _visitors need to contact secretary first[](http://www.favershambadminton.club)\
+**Website:** www.favershambadminton.co.uk _visitors need to contact secretary first\
 **Club nights:** Tuesdays 7.00 - 9.30 (2 courts, 4 if no match)\
-**Matches:** Queen Elizabeths Grammar School, Abbey Place, Faversham, ME13 7BQ\
+**Matches:** Queen Elizabeth's Grammar School, Abbey Place, Faversham, ME13 7BQ\
 **Courts:** 4\
 T﻿ues 7.00-9.30pm 
 
@@ -78,7 +83,7 @@ T﻿ues 7.00-9.30pm
 
 **Club nights:** Thursday evenings 7.00 to 9.00  All welcome  4 courts\
 Herne Bay Arena, Herne Bay High School, Bullockstone Road CT6 7TL\
-**Matches:** Tuesdays 7.30 to 10.00 - 2 courts  Sun 7-9.30pm\
+**Matches:** Tuesdays 7.30 to 10.00 - 2 courts  Sun 6.45-9.30pm\
 e﻿mail: hernebayclub@gmail.com; Facebook: Herne Bay Badminton Club (page)\
 
 ## Herne Bay Juniors
@@ -108,7 +113,7 @@ We offer regular social events including fun tournaments and have an annual exc
 **Website:** [www.racqueteersbadminton.co.uk](http://www.racqueteersbadminton.co.uk)\
 **Club nights:** Wednesdays - 7.30 to 9.30 Simon Langton Boys School - 4 courts\
 **N﻿otes:** guests need to book in advance, please contact via the website\
-**Matches:** Simon Langton Boys School, Langton Lane, Canterbury CT4 7AS; Fridays 7.00 - 9.30\
+**Matches:** Barton Manor School, Spring Lane, Canterbury CT1 1SU ; Fridays 7.30 - 9.30\
 **Courts:** 2+
 
 ## Racqueteers Juniors
@@ -133,6 +138,6 @@ New members welcome - including beginners and juniors
 
 **Website:** [www.wyndgatebadminton.co.uk](http://www.wyndgatebadminton.co.uk)\
 **Club nights:** Fridays 7.00 - 9.00 all year except Jan/Feb/Mar 8-10pm\
-**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU  Weds 7.00 - 9.00pm\
+**Matches:** Three Hills Sport Centre, Cheriton Road, Folkestone, CT19 5JU  Fri 7.00 - 9.00pm\
 **Courts:** 2 for 4 players matches and 3 for 6 player matches\
 Ability to play needed.  Play all year.
